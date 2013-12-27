@@ -1,0 +1,53 @@
+title:            Startup Product Manager
+description:      Rants & Insights on Building Products.
+disqus_shortname: startupproductmanager
+url:              http://anandrajaram.github.io
+
+# Permalinks
+permalink: /:year/:month/:title/
+
+# Owner/author information
+owner:
+  name:           Anand Rajaram
+  avatar:         anand-rajaram.jpg
+  bio:            "I like to build things that people use and love. Currently, I am a Product Manager @ HubSpot."
+  email:          anandrajaram@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: anandrajaram
+  facebook: anandrajaram
+  github: anandrajaram
+  stackexchange:
+  linkedin: anandrajaram
+  instagram: anandrajaram
+  flickr: anandrajaram
+  tumblr: anandrajaram
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus: +AnandRajaram
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-10208278-2
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about/
+  - title: External Link
+    url: http://mademistakes.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+pygments:    true
+markdown:    redcarpet
+
+# Amount of posts to show on home page
+paginate: 5
+
+# Comments and Sharing
+share: true
+comments: true
