@@ -89,13 +89,13 @@
 					<a href="http://twitter.com/anandrajaram"><i class="icon-twitter"></i> Twitter</a>
 				</li>
 				<li>
+					<a href="http://linkedin.com/in/anandrajaram"><i class="icon-linkedin"></i> LinkedIn</a>
+				</li>
+				<li>
 					<a href="http://facebook.com/anandrajaram"><i class="icon-facebook"></i> Facebook</a>
 				</li>
 				<li>
 					<a href="+AnandRajaram"><i class="icon-google-plus"></i> Google+</a>
-				</li>
-				<li>
-					<a href="http://linkedin.com/in/anandrajaram"><i class="icon-linkedin"></i> LinkedIn</a>
 				</li>
 				<li>
 					<a href="http://github.com/anandrajaram"><i class="icon-github"></i> GitHub</a>
@@ -140,6 +140,25 @@
 
 <div id="main" role="main" itemprop="mainContentOfPage" itemscope itemtype="http://schema.org/Blog">
   
+<article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+  <header>
+    <div class="entry-meta"><span class="entry-date date published updated"><time datetime="2009-12-14T18:44:57Z" itemprop="datePublished"><a href="http://anandrajaram.github.io/2009/12/the-cloud-got-a-bit-more-elastic-amazon-ec2-spot-instances/">December 14, 2009</a></time></span><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="fn"><a href="http://anandrajaram.github.io/about" title="About Anand Rajaram" itemprop="url">Anand Rajaram</a></span></span>&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="http://anandrajaram.github.io/2009/12/the-cloud-got-a-bit-more-elastic-amazon-ec2-spot-instances/#disqus_thread">Comment</a></span></div><!-- /.entry-meta -->
+    
+      <h1 class="entry-title" itemprop="name"><a href="http://anandrajaram.github.io/2009/12/the-cloud-got-a-bit-more-elastic-amazon-ec2-spot-instances/" rel="bookmark" title="The Cloud got a bit more elastic - Amazon EC2 Spot instances" itemprop="url">The Cloud got a bit more elastic - Amazon EC2 Spot instances</a></h1>
+    
+  </header>
+  <div class="entry-content" itemprop="description">
+    <p>At the <a href="http://www.xconomy.com/boston/2009/12/11/thank-you-to-our-cloud3-speakers-seeders-sponsors-and-underwriters-and-an-update-on-speaker-slides/">Xconomy Cloud^3 conference and unpanel</a> last week, there was a lot of great discussion around the Cloud&#39;s cost economics and at what point the Cloud becomes more expensive than a in-house data center. As part of the unpanel discussion, I had mentioned that cost models will continue to evolve in the cloud and that we are in the very early stages.</p>
+
+<p>And here it is, the <a href="http://aws.typepad.com/aws/2009/12/ec2-spot-instances-and-now-how-much-would-you-pay.html">Amazon Ec2 Spot pricing</a>. The concept is seemingly straightforward (with a somewhat unexpected twist). You can bid for &quot;Spot Instances&quot; where you specify the price you are willing to pay for an EC2 instance. To quote the AWS blog &quot;As requests come in and unused capacity becomes available, we&#39;ll evaluate the open bids for each Region and compute a new Spot Price for each instance type&quot;. And here is the twist. After that <strong>we&#39;ll terminate any Spot Instances with bids below the Spot Price</strong>, and launch instances for requests with bids higher than or at the new Spot Price. The instances will be billed at the then-current Spot Price regardless of the actual bid. I don&#39;t know why the instances would have to be terminated, rather than a simple re-calculation of the price of running the instance, but this seems like a fun experiment.</p>
+
+<p>To be able to fully take advantage of this kind of flexibility being offered, your application (actually I should background jobs) would have to be totally stateless and be able to resume from any where in a workflow. Queuing mechanisms such as SQS come in handy. Like I mentioned in my talk, it is probably good design anyway to be stateless. And of course, please don&#39;t run your web server or user-facing applications in a Spot instance. That is a guaranteed way to get fired.</p>
+
+<p>All in all, I think this is more of a pricing experiment from Amazon&#39;s perspective, more than anything else. Getting every additional dollar out of your excess capacity is a centuries old problem (think free business cards from VistaPrint), and I&#39;d be interested in knowing how this pans out for Amazon and how Spot prices compare to traditional prices.</p>
+
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+
 <article class="hentry" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
   <header>
     <div class="entry-meta"><span class="entry-date date published updated"><time datetime="2009-12-11T15:21:36Z" itemprop="datePublished"><a href="http://anandrajaram.github.io/2009/12/reblog-from-avc-com-a-vc/">December 11, 2009</a></time></span><span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="fn"><a href="http://anandrajaram.github.io/about" title="About Anand Rajaram" itemprop="url">Anand Rajaram</a></span></span>&nbsp; &bull; &nbsp;<span class="entry-comments"><a href="http://anandrajaram.github.io/2009/12/reblog-from-avc-com-a-vc/#disqus_thread">Comment</a></span></div><!-- /.entry-meta -->
@@ -297,7 +316,7 @@
 
 <div class="footer-wrapper">
   <footer role="contentinfo">
-    <span>&copy; 2013 Anand Rajaram. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/">HPSTR Theme</a>.</span>
+    <span>&copy; 2013</span>
   </footer>
 </div><!-- /.footer-wrapper -->
 
@@ -308,7 +327,7 @@
 <!-- Asynchronous Google Analytics snippet -->
 <script>
   var _gaq = _gaq || [];
-  var pluginUrl = 
+  var pluginUrl =
  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
   _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   _gaq.push(['_setAccount', 'UA-10208278-2']);
@@ -321,7 +340,17 @@
   })();
 </script>
 
-          
+
+<!-- Start of Async HubSpot Analytics Code -->
+  <script type="text/javascript">
+    (function(d,s,i,r) {
+      if (d.getElementById(i)){return;}
+      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];
+      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/162311.js';
+      e.parentNode.insertBefore(n, e);
+    })(document,"script","hs-analytics",300000);
+  </script>
+<!-- End of Async HubSpot Analytics Code -->          
 
 </body>
 </html>

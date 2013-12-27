@@ -4,13 +4,34 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://anandrajaram.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://anandrajaram.github.io" />
-<updated>2013-12-27T01:41:49-05:00</updated>
+<updated>2013-12-27T17:39:23-05:00</updated>
 <id>http://anandrajaram.github.io/</id>
 <author>
   <name>Anand Rajaram</name>
   <uri>http://anandrajaram.github.io/</uri>
   <email>anandrajaram@gmail.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Windows 8 Is The Perfect OS That Nobody Wants]]></title>
+  <link>http://www.fastcodesign.com/3023244/microsofts-windows-8-is-the-perfect-os-that-nobody-wants</link>
+  <id>http://anandrajaram.github.io/2013/12/windows-8-perfect-os-that-nobody-wants</id>
+  <published>2013-12-27T00:00:00-05:00</published>
+  <updated>2013-12-27T00:00:00-05:00</updated>
+  <author>
+    <name>Anand Rajaram</name>
+    <uri>http://anandrajaram.github.io</uri>
+    <email>anandrajaram@gmail.com</email>
+  </author>
+  <content type="html">&lt;blockquote&gt;
+&lt;p&gt;People care about speed, efficiency, clarity, and delight. But a phone interface matching a laptop interface is about as important as socks matching underwear. It’s nice, but on most days, probably the last priority on your mind.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway&lt;/strong&gt;: Your design could be great on paper and executed perfectly, but it still has to solve a real problem. Props to Microsoft for trying though and setting the tone on this.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2013/12/windows-8-perfect-os-that-nobody-wants/&quot;&gt;Windows 8 Is The Perfect OS That Nobody Wants&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on December 27, 2013.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -52,24 +73,12 @@
 &lt;ul&gt;
 &lt;li&gt;The creation of 5C is interesting for its positioning and pricing. Apple diverged from its usual play of bumping the price down by $100. It packaged the product differently, added color and has made what is basically the iPhone 5 a &amp;quot;New Product&amp;quot;.&lt;/li&gt;
 &lt;li&gt;5C is now the &amp;quot;bread and butter&amp;quot; product for Apple. It is the first product featured on the website and the 5S is repeatedly positioned as a cutting edge product, and in many ways seems like a decoy.&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;5C is meant to &amp;quot;pull up&amp;quot; those who would have otherwise gone for the free product, but also meant to make them feel good about the product they have. (that color!)&lt;/p&gt;
-
-&lt;p&gt;*&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;5C is meant to &amp;quot;pull up&amp;quot; those who would have otherwise gone for the free product, but also meant to make them feel good about the product they have. (that color!)&lt;/li&gt;
+&lt;li&gt;If you hate those 5C colors, you are not the target market! Anecdotally, I have heard that there is a lot of excitement about the colors from teens and new grads. Parents can expect to spend on the 5C.&lt;/li&gt;
+&lt;li&gt;Apple 5C plus the $30 cases (which will be ALL margin) will keep the bottom line happy.&lt;/li&gt;
+&lt;li&gt;The fact that the 32GB 5C and the 16GB 5S are the same price is a little head-scratching.&lt;/li&gt;
+&lt;li&gt;I am surprised Apple&lt;a href=&quot;http://techcrunch.com/2013/09/10/do-i-like-the-iphone-5c-case-non/&quot;&gt; let &amp;quot;hon&amp;quot; slip through the cracks&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;If you hate those 5C colors, you are not the target market! Anecdotally, I have heard that there is a lot of excitement about the colors from teens and new grads. Parents can expect to spend on the 5C.&lt;/p&gt;
-
-&lt;p&gt;*&lt;/p&gt;
-
-&lt;p&gt;Apple 5C plus the $30 cases (which will be ALL margin) will keep the bottom line happy.&lt;/p&gt;
-
-&lt;p&gt;*&lt;/p&gt;
-
-&lt;p&gt;The fact that the 32GB 5C and the 16GB 5S are the same price is a little head-scratching.&lt;/p&gt;
-
-&lt;p&gt;*&lt;/p&gt;
-
-&lt;p&gt;I am surprised Apple&lt;a href=&quot;http://techcrunch.com/2013/09/10/do-i-like-the-iphone-5c-case-non/&quot;&gt; let &amp;quot;hon&amp;quot; slip through the cracks&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Observations on the 5S&lt;/strong&gt;&lt;/p&gt;
 
@@ -631,27 +640,6 @@
 &lt;p&gt;How have you communicated bad news to your customers? Do you think Google&amp;#39;s response is adequate? Does it convince you?&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/03/how-to-tell-your-customers-that-you-screwed-up/&quot;&gt;How to tell your customers that you screwed up?&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on March 01, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Awesome Infographic on Online Marketing]]></title>
-  <link>http://anandrajaram.github.io/2011/02/awesome-infographic-on-online-marketing/</link>
-  <id>http://anandrajaram.github.io/2011/02/awesome-infographic-on-online-marketing</id>
-  <published>2011-02-12T12:21:05Z</published>
-  <updated>2011-02-12T12:21:05Z</updated>
-  <author>
-    <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
-    <email>anandrajaram@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;Check out this awesome Infographic / cheatsheet / starter guide to Online Marketing. It covers all the core components of online marketing. I love the timeline on the left too, with spikes in traffic, similar to what you hope to achieve if you are doing it right.&lt;/p&gt;
-
-&lt;p&gt;Valuable information, very well presented.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://unbounce.com/noob-guide-to-online-marketing-infographic/&quot;&gt;&lt;img src=&quot;http://assets.unbounce.com/s/images/noob-guide-to-marketing-infographic-600.png&quot; alt=&quot;The Noob Guide to Online Marketing - Infographic&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/02/awesome-infographic-on-online-marketing/&quot;&gt;Awesome Infographic on Online Marketing&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on February 12, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>

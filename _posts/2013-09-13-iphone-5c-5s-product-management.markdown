@@ -35,61 +35,14 @@ I wanted to analyze it from a Product Manager's perspective.  Wall Street's ini
   * The creation of 5C is interesting for its positioning and pricing. Apple diverged from its usual play of bumping the price down by $100. It packaged the product differently, added color and has made what is basically the iPhone 5 a "New Product".
   * 5C is now the "bread and butter" product for Apple. It is the first product featured on the website and the 5S is repeatedly positioned as a cutting edge product, and in many ways seems like a decoy.
   * 5C is meant to "pull up" those who would have otherwise gone for the free product, but also meant to make them feel good about the product they have. (that color!)
-
-
-
-
-
-  *
-
-
-If you hate those 5C colors, you are not the target market! Anecdotally, I have heard that there is a lot of excitement about the colors from teens and new grads. Parents can expect to spend on the 5C.
-
-
-
-
-
-  *
-
-
-Apple 5C plus the $30 cases (which will be ALL margin) will keep the bottom line happy.
-
-
-
-
-
-  *
-
-
-The fact that the 32GB 5C and the 16GB 5S are the same price is a little head-scratching.
-
-
-
-
-
-  *
-
-
-I am surprised Apple[ let "hon" slip through the cracks](http://techcrunch.com/2013/09/10/do-i-like-the-iphone-5c-case-non/).
-
-
-
-
-
-
+  * If you hate those 5C colors, you are not the target market! Anecdotally, I have heard that there is a lot of excitement about the colors from teens and new grads. Parents can expect to spend on the 5C.
+  * Apple 5C plus the $30 cases (which will be ALL margin) will keep the bottom line happy.
+  * The fact that the 32GB 5C and the 16GB 5S are the same price is a little head-scratching.
+  * I am surprised Apple[ let "hon" slip through the cracks](http://techcrunch.com/2013/09/10/do-i-like-the-iphone-5c-case-non/).
 
 **Observations on the 5S**
 
-
-
-
 The 5S is very interesting from the perspective of iterative product development. I don’t know if it transpired this way, but I can envision someone doing the "Thai food approach" (aka the Similans approach) to each aspect of how iPhones are used and looking at how that experience can be fixed or improved. The idea is that you categorize / prioritize each area in a chili-meter, much like a Thai restaurant rates their food for spicy-ness. Here is my shot at de-constructing it.
-
-
-
-
-
-
 
   *
 
