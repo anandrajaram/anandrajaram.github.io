@@ -6,6 +6,7 @@ layout: post
 slug: iphone-5c-5s-product-management
 title: 'iPhone 5C & 5S : Observations of a Product Manager'
 wordpress_id: 350
+share: true
 categories:
 - Mobile
 - Product Development
