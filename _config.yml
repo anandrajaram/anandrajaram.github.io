@@ -1,7 +1,7 @@
 title:            Startup Product Manager
 description:      Rants & Insights on Building Products.
 disqus_shortname: startupproductmanager
-url:              http://anandrajaram.github.io
+url:              http://www.startupproductmanager.com
 
 # Permalinks
 permalink: /:year/:month/:title/
@@ -35,9 +35,6 @@ bing_verify:
 links:
   - title: About
     url: /about/
-  - title: External Link
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

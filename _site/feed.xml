@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Startup Product Manager</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://anandrajaram.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://anandrajaram.github.io" />
-<updated>2014-01-01T23:36:24-05:00</updated>
-<id>http://anandrajaram.github.io/</id>
+<link rel="self" type="application/atom+xml" href="http://www.startupproductmanager.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.startupproductmanager.com" />
+<updated>2014-01-02T01:00:29-05:00</updated>
+<id>http://www.startupproductmanager.com/</id>
 <author>
   <name>Anand Rajaram</name>
-  <uri>http://anandrajaram.github.io/</uri>
+  <uri>http://www.startupproductmanager.com/</uri>
   <email>anandrajaram@gmail.com</email>
 </author>
 
@@ -16,12 +16,12 @@
 <entry>
   <title type="html"><![CDATA[Windows 8 Is The Perfect OS That Nobody Wants]]></title>
   <link>http://www.fastcodesign.com/3023244/microsofts-windows-8-is-the-perfect-os-that-nobody-wants</link>
-  <id>http://anandrajaram.github.io/2013/12/windows-8-perfect-os-that-nobody-wants</id>
+  <id>http://www.startupproductmanager.com/2013/12/windows-8-perfect-os-that-nobody-wants</id>
   <published>2013-12-27T00:00:00-05:00</published>
   <updated>2013-12-27T00:00:00-05:00</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
@@ -30,36 +30,36 @@
 
 &lt;p&gt;&lt;strong&gt;Takeaway&lt;/strong&gt;: Your design could be great on paper and executed perfectly, but it still has to solve a real problem. Props to Microsoft for trying though and setting the tone on this.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2013/12/windows-8-perfect-os-that-nobody-wants/&quot;&gt;Windows 8 Is The Perfect OS That Nobody Wants&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on December 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2013/12/windows-8-perfect-os-that-nobody-wants/&quot;&gt;Windows 8 Is The Perfect OS That Nobody Wants&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on December 27, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[London Heathrow airport has an interesting way of surveying customers]]></title>
-  <link>http://anandrajaram.github.io/2013/10/london-heathrow-airport-has-an-interesting-way-of-surveying-customers/</link>
-  <id>http://anandrajaram.github.io/2013/10/london-heathrow-airport-has-an-interesting-way-of-surveying-customers</id>
+  <link>http://www.startupproductmanager.com/2013/10/london-heathrow-airport-has-an-interesting-way-of-surveying-customers/</link>
+  <id>http://www.startupproductmanager.com/2013/10/london-heathrow-airport-has-an-interesting-way-of-surveying-customers</id>
   <published>2013-10-23T01:14:59Z</published>
   <updated>2013-10-23T01:14:59Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/10/20131022-210950.jpg&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/10/20131022-210950.jpg&quot; alt=&quot;20131022-210950.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2013/10/london-heathrow-airport-has-an-interesting-way-of-surveying-customers/&quot;&gt;London Heathrow airport has an interesting way of surveying customers&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on October 23, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2013/10/london-heathrow-airport-has-an-interesting-way-of-surveying-customers/&quot;&gt;London Heathrow airport has an interesting way of surveying customers&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on October 23, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[iPhone 5C & 5S : Observations of a Product Manager]]></title>
-  <link>http://anandrajaram.github.io/2013/09/iphone-5c-5s-product-management/</link>
-  <id>http://anandrajaram.github.io/2013/09/iphone-5c-5s-product-management</id>
+  <link>http://www.startupproductmanager.com/2013/09/iphone-5c-5s-product-management/</link>
+  <id>http://www.startupproductmanager.com/2013/09/iphone-5c-5s-product-management</id>
   <published>2013-09-13T02:25:08Z</published>
   <updated>2013-09-13T02:25:08Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;There is already a lot of analysis on new iPhone 5 C (for color) and 5 S (for sensors) including the usual fanboys such as&lt;a href=&quot;http://daringfireball.net/2013/09/iphone_5c_5c_event&quot;&gt; Gruber&lt;/a&gt;,&lt;a href=&quot;http://techcrunch.com/2013/09/10/iphone-5c/&quot;&gt; Siegler&lt;/a&gt; etc,.) and the haters (&lt;a href=&quot;http://www.thestreet.com/story/12033242/1/google-laughs-at-the-new-iphones.html#!&quot;&gt;sarcastically indicating that &amp;quot;Google laughs at the new phone&amp;quot;&lt;/a&gt;)&lt;/p&gt;
@@ -102,19 +102,19 @@
 
 &lt;p&gt;There you have it. This post is a bit of a brain dump, but figured I&amp;#39;d get back into the habit and also join in on this conversation. What are your thoughts? Which model are you going to buy?&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2013/09/iphone-5c-5s-product-management/&quot;&gt;iPhone 5C & 5S : Observations of a Product Manager&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on September 13, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2013/09/iphone-5c-5s-product-management/&quot;&gt;iPhone 5C & 5S : Observations of a Product Manager&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on September 13, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Sweat the details]]></title>
-  <link>http://anandrajaram.github.io/2012/12/sweat-the-details/</link>
-  <id>http://anandrajaram.github.io/2012/12/sweat-the-details</id>
+  <link>http://www.startupproductmanager.com/2012/12/sweat-the-details/</link>
+  <id>http://www.startupproductmanager.com/2012/12/sweat-the-details</id>
   <published>2012-12-02T22:38:18Z</published>
   <updated>2012-12-02T22:38:18Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Paying attention to the little details, the ones that no one might ever notice, is a great way to take pride in your craft. When those details &lt;img src=&quot;http://farm3.staticflickr.com/2758/4517270586_764b7f421c_q.jpg&quot; alt=&quot;&quot;&gt;DO get noticed, you will show your customers and users that you care. Plus they are a great way to add character and &lt;a href=&quot;http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/&quot;&gt;show some personality in your apps&lt;/a&gt;. Through &lt;a href=&quot;http://graysky.org/&quot;&gt;Mike Champion&lt;/a&gt;, I found this great tumblr blog called &lt;a href=&quot;http://littlebigdetails.com/&quot;&gt;Little Big Details&lt;/a&gt; which has a great collection of such details. A great site to get inspired and know that those little big details do get noticed. &lt;/p&gt;
@@ -123,19 +123,19 @@
 
 &lt;p&gt;Check out : &lt;a href=&quot;http://littlebigdetails.com/&quot;&gt;Little Big Details&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2012/12/sweat-the-details/&quot;&gt;Sweat the details&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on December 02, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2012/12/sweat-the-details/&quot;&gt;Sweat the details&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on December 02, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[5 Tips for Highly Effective QR Codes]]></title>
-  <link>http://anandrajaram.github.io/2012/07/5-tips-for-highly-effective-qr-codes/</link>
-  <id>http://anandrajaram.github.io/2012/07/5-tips-for-highly-effective-qr-codes</id>
+  <link>http://www.startupproductmanager.com/2012/07/5-tips-for-highly-effective-qr-codes/</link>
+  <id>http://www.startupproductmanager.com/2012/07/5-tips-for-highly-effective-qr-codes</id>
   <published>2012-07-31T12:00:00Z</published>
   <updated>2012-07-31T12:00:00Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;It seems like &lt;a href=&quot;http://en.wikipedia.org/wiki/QR_code&quot;&gt;QR codes&lt;/a&gt; are everywhere these days. Yes, literally everywhere, from restaurant tables to Train station to bananas. (Can you believe it? On Bananas!)&lt;/p&gt;
@@ -168,19 +168,19 @@
 
 &lt;p&gt;Have you used QR Codes successfully in your marketing campaigns? How did you make the most out of it?&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2012/07/5-tips-for-highly-effective-qr-codes/&quot;&gt;5 Tips for Highly Effective QR Codes&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on July 31, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2012/07/5-tips-for-highly-effective-qr-codes/&quot;&gt;5 Tips for Highly Effective QR Codes&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on July 31, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Focus on Intent, not Implementation]]></title>
-  <link>http://anandrajaram.github.io/2012/04/focus-on-intent-not-implementation/</link>
-  <id>http://anandrajaram.github.io/2012/04/focus-on-intent-not-implementation</id>
+  <link>http://www.startupproductmanager.com/2012/04/focus-on-intent-not-implementation/</link>
+  <id>http://www.startupproductmanager.com/2012/04/focus-on-intent-not-implementation</id>
   <published>2012-04-24T15:28:24Z</published>
   <updated>2012-04-24T15:28:24Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;When talking to your customers and users, it is important to synthesize the information to make sure you are not just &amp;quot;&lt;a href=&quot;http://www.goodreads.com/quotes/show/15297&quot;&gt;delivering faster horses&lt;/a&gt;&amp;quot; (and apparently, there is &lt;a href=&quot;http://blogs.hbr.org/cs/2011/08/henry_ford_never_said_the_fast.html&quot;&gt;no evidence that Henry Ford actually said it,&lt;/a&gt; but I&lt;img src=&quot;http://29.media.tumblr.com/tumblr_l4srykesbA1qz6pqio1_500.png&quot; alt=&quot;&quot;&gt; digress). When you are working onbrand new features, you likely are talking to a lot of power users and early adopters. Given how well they know about your current product, it is quite likely that they will tell you not only the &amp;quot;what&amp;quot; of the feature but also give you insights on the &amp;quot;how&amp;quot;.&lt;/p&gt;
@@ -202,19 +202,19 @@
 
 &lt;p&gt;Go ahead, try it out in your iPad. This is a classic example of focusing on the user&amp;#39;s intent, and not on the specifics of a given implementation. &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2012/04/focus-on-intent-not-implementation/&quot;&gt;Focus on Intent, not Implementation&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on April 24, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2012/04/focus-on-intent-not-implementation/&quot;&gt;Focus on Intent, not Implementation&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on April 24, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Whats on the Boston Mobile Community's Mind]]></title>
-  <link>http://anandrajaram.github.io/2012/02/whats-on-the-boston-mobile-communitys-mind/</link>
-  <id>http://anandrajaram.github.io/2012/02/whats-on-the-boston-mobile-communitys-mind</id>
+  <link>http://www.startupproductmanager.com/2012/02/whats-on-the-boston-mobile-communitys-mind/</link>
+  <id>http://www.startupproductmanager.com/2012/02/whats-on-the-boston-mobile-communitys-mind</id>
   <published>2012-02-28T21:00:15Z</published>
   <updated>2012-02-28T21:00:15Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I went to the MassMobile - Mobile Developers Meetup, organized by Localytics, yesterday. There was a very lively discussion, with participants sharing stories of what worked, what didn&amp;#39;t, and what they are trying now.  Here are my key takeaways / quick&lt;/p&gt;
@@ -241,19 +241,19 @@
 
 &lt;p&gt;Thanks to Raj and the &lt;a href=&quot;http://www.localytics.com/&quot;&gt;Localytics&lt;/a&gt; team for making it useful and informative.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2012/02/whats-on-the-boston-mobile-communitys-mind/&quot;&gt;Whats on the Boston Mobile Community's Mind&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on February 28, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2012/02/whats-on-the-boston-mobile-communitys-mind/&quot;&gt;Whats on the Boston Mobile Community's Mind&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on February 28, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Using Personas End to End]]></title>
-  <link>http://anandrajaram.github.io/2012/01/using-personas-end-to-end/</link>
-  <id>http://anandrajaram.github.io/2012/01/using-personas-end-to-end</id>
+  <link>http://www.startupproductmanager.com/2012/01/using-personas-end-to-end/</link>
+  <id>http://www.startupproductmanager.com/2012/01/using-personas-end-to-end</id>
   <published>2012-01-20T15:54:39Z</published>
   <updated>2012-01-20T15:54:39Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;I guess this one should be filed under &amp;quot;Duh&amp;quot;. The use of &lt;a href=&quot;http://en.wikipedia.org/wiki/Persona_(marketing&quot;&gt;personas&lt;/a&gt;) is pretty common while defining user interfaces and is a valuable tool in defining use cases, usage scenarios.&lt;/p&gt;
@@ -270,19 +270,19 @@
 
 &lt;p&gt; &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2012/01/using-personas-end-to-end/&quot;&gt;Using Personas End to End&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on January 20, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2012/01/using-personas-end-to-end/&quot;&gt;Using Personas End to End&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on January 20, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Android Fragmentation - Visualized]]></title>
-  <link>http://anandrajaram.github.io/2011/10/android-fragmentation-visualized/</link>
-  <id>http://anandrajaram.github.io/2011/10/android-fragmentation-visualized</id>
+  <link>http://www.startupproductmanager.com/2011/10/android-fragmentation-visualized/</link>
+  <id>http://www.startupproductmanager.com/2011/10/android-fragmentation-visualized</id>
   <published>2011-10-27T18:59:36Z</published>
   <updated>2011-10-27T18:59:36Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;This blog post (and graphic) drives home the how manufacturers are not updating Android frequently (&lt;a href=&quot;http://www.techrepublic.com/blog/10things/10-things-i-hate-about-developing-for-android-and-some-workarounds-that-help/2650&quot;&gt;my Top 10 peeve with the platform&lt;/a&gt;). A few of the stats really jump out at me: &lt;a href=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/10/android-frag.png&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/10/android-frag.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -294,19 +294,19 @@
 
 &lt;p&gt;Check out &lt;a href=&quot;http://theunderstatement.com/post/11982112928/android-orphans-visualizing-a-sad-history-of-support&quot;&gt;Android Orphans&lt;/a&gt; blog post to get all the information.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/10/android-fragmentation-visualized/&quot;&gt;Android Fragmentation - Visualized&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on October 27, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/10/android-fragmentation-visualized/&quot;&gt;Android Fragmentation - Visualized&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on October 27, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Thank you, Steve]]></title>
-  <link>http://anandrajaram.github.io/2011/10/thank-you-steve/</link>
-  <id>http://anandrajaram.github.io/2011/10/thank-you-steve</id>
+  <link>http://www.startupproductmanager.com/2011/10/thank-you-steve/</link>
+  <id>http://www.startupproductmanager.com/2011/10/thank-you-steve</id>
   <published>2011-10-06T11:40:53Z</published>
   <updated>2011-10-06T11:40:53Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Thank you, Steve for inspiring me to create technology that &amp;quot;just works&amp;quot;&lt;/p&gt;
@@ -321,19 +321,19 @@
 
 &lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/10/t_hero.png&quot; alt=&quot;Rest In Peace.&quot;&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/10/thank-you-steve/&quot;&gt;Thank you, Steve&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on October 06, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/10/thank-you-steve/&quot;&gt;Thank you, Steve&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on October 06, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Know Thy Mobile User]]></title>
-  <link>http://anandrajaram.github.io/2011/08/know-thy-mobile-user/</link>
-  <id>http://anandrajaram.github.io/2011/08/know-thy-mobile-user</id>
+  <link>http://www.startupproductmanager.com/2011/08/know-thy-mobile-user/</link>
+  <id>http://www.startupproductmanager.com/2011/08/know-thy-mobile-user</id>
   <published>2011-08-20T14:17:34Z</published>
   <updated>2011-08-20T14:17:34Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;Knowing your users and the context in which they are using your app is a key aspect of developing useful and user-engaged mobile apps. This is especially important in a &lt;a href=&quot;http://techrepublic.com/blog/10things/10-things-i-hate-about-developing-for-android-and-some-workarounds-that-help/2650&quot;&gt;fragmented market&lt;/a&gt; (and a recurring theme in the&lt;a href=&quot;http://techrepublic.com/blog/10things/10-things-i-hate-about-developing-for-android-and-some-workarounds-that-help/2650&quot;&gt; frustrations of developers&lt;/a&gt;). &lt;a href=&quot;http://blog.hunch.com/?p=51781&quot;&gt;The Hunch Blog&lt;/a&gt; has some interesting stats on broad demographics and patterns of iOS and Android users.&lt;/p&gt;
@@ -363,19 +363,19 @@
 
 &lt;p&gt; &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/08/know-thy-mobile-user/&quot;&gt;Know Thy Mobile User&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on August 20, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/08/know-thy-mobile-user/&quot;&gt;Know Thy Mobile User&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on August 20, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Google Buys Motorola Mobility - This is good for users and product managers alike]]></title>
-  <link>http://anandrajaram.github.io/2011/08/google-buys-motorola-mobility-this-is-good-for-users-and-product-managers-alike/</link>
-  <id>http://anandrajaram.github.io/2011/08/google-buys-motorola-mobility-this-is-good-for-users-and-product-managers-alike</id>
+  <link>http://www.startupproductmanager.com/2011/08/google-buys-motorola-mobility-this-is-good-for-users-and-product-managers-alike/</link>
+  <id>http://www.startupproductmanager.com/2011/08/google-buys-motorola-mobility-this-is-good-for-users-and-product-managers-alike</id>
   <published>2011-08-15T12:33:42Z</published>
   <updated>2011-08-15T12:33:42Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://googleblog.blogspot.com/2011/08/supercharging-android-google-to-acquire.html&quot;&gt;Google just announced&lt;/a&gt; that it is acquiring Motorola Mobility (&lt;a href=&quot;http://techcrunch.com/2011/08/15/breaking-google-buys-motorola-for-12-5-billion/&quot;&gt;reportedly for $12.5 billion&lt;/a&gt;). This could be really good news for the end-to-end user experience in the Android platform. Google is also committing to keep the Android platform open. To quote the blog post :&lt;/p&gt;
@@ -394,19 +394,19 @@
 
 &lt;p&gt;Good luck Google!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/08/google-buys-motorola-mobility-this-is-good-for-users-and-product-managers-alike/&quot;&gt;Google Buys Motorola Mobility - This is good for users and product managers alike&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on August 15, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/08/google-buys-motorola-mobility-this-is-good-for-users-and-product-managers-alike/&quot;&gt;Google Buys Motorola Mobility - This is good for users and product managers alike&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on August 15, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Product Manager's nightmares with the Android Platform]]></title>
-  <link>http://anandrajaram.github.io/2011/08/a-product-managers-nightmare-with-the-android/</link>
-  <id>http://anandrajaram.github.io/2011/08/a-product-managers-nightmare-with-the-android</id>
+  <link>http://www.startupproductmanager.com/2011/08/a-product-managers-nightmare-with-the-android/</link>
+  <id>http://www.startupproductmanager.com/2011/08/a-product-managers-nightmare-with-the-android</id>
   <published>2011-08-11T10:50:31Z</published>
   <updated>2011-08-11T10:50:31Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;My observations on the pain points of developing for the Android platform, and suggested workarounds for those pain points are published today in &lt;a href=&quot;http://www.techrepublic.com/blog/10things/10-things-i-hate-about-developing-for-android-and-some-workarounds-that-help/2650&quot;&gt;TechRepublic&lt;/a&gt;. To summarize a few key points :&lt;/p&gt;
@@ -424,19 +424,19 @@
 
 &lt;p&gt;&lt;img src=&quot;http://www.blogcdn.com/www.engadget.com/media/2010/12/10x1207gj73s8.jpg&quot; alt=&quot;Android Fragmentations&quot;&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/08/a-product-managers-nightmare-with-the-android/&quot;&gt;A Product Manager's nightmares with the Android Platform&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/08/a-product-managers-nightmare-with-the-android/&quot;&gt;A Product Manager's nightmares with the Android Platform&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on August 11, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Marketing 101 : Positioning and Communicating Benefits]]></title>
-  <link>http://anandrajaram.github.io/2011/08/marketing-101-positioning-and-communicating-benefits/</link>
-  <id>http://anandrajaram.github.io/2011/08/marketing-101-positioning-and-communicating-benefits</id>
+  <link>http://www.startupproductmanager.com/2011/08/marketing-101-positioning-and-communicating-benefits/</link>
+  <id>http://www.startupproductmanager.com/2011/08/marketing-101-positioning-and-communicating-benefits</id>
   <published>2011-08-08T17:00:02Z</published>
   <updated>2011-08-08T17:00:02Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;It is fun to watch a real life case-study of sorts playing out in the battle of the tablets. There is the iPad 2, selling users on the experience, the emotional tug of Facetime, about how doctors and teachers and kids love the iPad.&lt;/p&gt;
@@ -458,19 +458,19 @@
 &lt;blockquote&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/08/marketing-101-positioning-and-communicating-benefits/&quot;&gt;Marketing 101 : Positioning and Communicating Benefits&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on August 08, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/08/marketing-101-positioning-and-communicating-benefits/&quot;&gt;Marketing 101 : Positioning and Communicating Benefits&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on August 08, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Back After a Break]]></title>
-  <link>http://anandrajaram.github.io/2011/08/back-after-a-break/</link>
-  <id>http://anandrajaram.github.io/2011/08/back-after-a-break</id>
+  <link>http://www.startupproductmanager.com/2011/08/back-after-a-break/</link>
+  <id>http://www.startupproductmanager.com/2011/08/back-after-a-break</id>
   <published>2011-08-08T04:18:52Z</published>
   <updated>2011-08-08T04:18:52Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;It has been a hectic past few months. We launched our mobile apps for the &lt;a href=&quot;http://www.officedrop.com/iphone-pdf&quot;&gt;iPhone&lt;/a&gt; and the &lt;a href=&quot;http://www.officedrop.com/android-paper-to-go&quot;&gt;Android&lt;/a&gt;, and also launched our partnership with Nuance Communications to launch &lt;a href=&quot;http://paperport.com&quot;&gt;PaperPort Anywhere&lt;/a&gt;, the cloud-powered version of PaperPort software.&lt;/p&gt;
@@ -488,19 +488,19 @@
 
 &lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/08/NewImage.png&quot; alt=&quot;Break Over.png&quot;&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/08/back-after-a-break/&quot;&gt;Back After a Break&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on August 08, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/08/back-after-a-break/&quot;&gt;Back After a Break&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on August 08, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Show some personality in your apps]]></title>
-  <link>http://anandrajaram.github.io/2011/05/show-some-personality-in-your-apps/</link>
-  <id>http://anandrajaram.github.io/2011/05/show-some-personality-in-your-apps</id>
+  <link>http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/</link>
+  <id>http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps</id>
   <published>2011-05-09T12:30:08Z</published>
   <updated>2011-05-09T12:30:08Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;A great way to be friendly to your customers is to project some personality in your apps (and hopefully it reflects your company&amp;#39;s true personality).  &lt;/p&gt;
@@ -519,19 +519,19 @@
 
 &lt;p&gt;Both are nice examples that bring a smile to your customer&amp;#39;s face when they come across them. Well done. How do you make your apps have a personality?&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/05/show-some-personality-in-your-apps/&quot;&gt;Show some personality in your apps&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on May 09, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/&quot;&gt;Show some personality in your apps&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on May 09, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Delight your customers by paying attention to the little things]]></title>
-  <link>http://anandrajaram.github.io/2011/05/delight-your-customers-by-paying-attention-to-the-little-things/</link>
-  <id>http://anandrajaram.github.io/2011/05/delight-your-customers-by-paying-attention-to-the-little-things</id>
+  <link>http://www.startupproductmanager.com/2011/05/delight-your-customers-by-paying-attention-to-the-little-things/</link>
+  <id>http://www.startupproductmanager.com/2011/05/delight-your-customers-by-paying-attention-to-the-little-things</id>
   <published>2011-05-09T02:47:16Z</published>
   <updated>2011-05-09T02:47:16Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;A couple of weeks back my trusted (rusted?) 3 year old MacBook pro wouldn&amp;#39;t boot. By the sounds of it, it was pretty obvious that it wasn&amp;#39;t something I could fix / hack, so I took it to the local Apple store. I had put on my &amp;quot;I am a Mac&amp;quot; T-shirt hoping to score some brownie points at the genius bar.&lt;/p&gt;
@@ -550,19 +550,19 @@
 
 &lt;p&gt;Are you delighting your customers?&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/05/delight-your-customers-by-paying-attention-to-the-little-things/&quot;&gt;Delight your customers by paying attention to the little things&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on May 09, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/05/delight-your-customers-by-paying-attention-to-the-little-things/&quot;&gt;Delight your customers by paying attention to the little things&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on May 09, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[ProductCamp Boston is on April 2, 2011]]></title>
-  <link>http://anandrajaram.github.io/2011/03/productcamp-boston-is-on-april-2-2011/</link>
-  <id>http://anandrajaram.github.io/2011/03/productcamp-boston-is-on-april-2-2011</id>
+  <link>http://www.startupproductmanager.com/2011/03/productcamp-boston-is-on-april-2-2011/</link>
+  <id>http://www.startupproductmanager.com/2011/03/productcamp-boston-is-on-april-2-2011</id>
   <published>2011-03-18T03:47:16Z</published>
   <updated>2011-03-18T03:47:16Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://productcampboston.org/&quot;&gt;ProductCamp Boston&lt;/a&gt;, the awesome &lt;a href=&quot;http://en.wikipedia.org/wiki/Unconference&quot;&gt;unconference&lt;/a&gt; on Product Management, returns on Saturday, April 2, 2011 at the Microsoft New England Research and Development Center in Cambridge. I have been to prior year&amp;#39;s ProductCamps and they rock!  (I am pretty bummed that I can&amp;#39;t make it this year, because I will be out of the country at that time.)&lt;/p&gt;
@@ -582,19 +582,19 @@
 
 &lt;p&gt; &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/03/productcamp-boston-is-on-april-2-2011/&quot;&gt;ProductCamp Boston is on April 2, 2011&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on March 18, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/03/productcamp-boston-is-on-april-2-2011/&quot;&gt;ProductCamp Boston is on April 2, 2011&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on March 18, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Nope, I am not sick of SXSW. I am excited to go there.. ]]></title>
-  <link>http://anandrajaram.github.io/2011/03/nope-i-am-not-sick-of-sxsw-i-am-excited-to-go-there/</link>
-  <id>http://anandrajaram.github.io/2011/03/nope-i-am-not-sick-of-sxsw-i-am-excited-to-go-there</id>
+  <link>http://www.startupproductmanager.com/2011/03/nope-i-am-not-sick-of-sxsw-i-am-excited-to-go-there/</link>
+  <id>http://www.startupproductmanager.com/2011/03/nope-i-am-not-sick-of-sxsw-i-am-excited-to-go-there</id>
   <published>2011-03-10T04:27:44Z</published>
   <updated>2011-03-10T04:27:44Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;This is my first &lt;a href=&quot;http://sxsw.com&quot;&gt;SXSW&lt;/a&gt; and I am excited. I dont care &lt;a href=&quot;http://techcrunch.com/2011/03/07/sxsgah/&quot;&gt;what the naysayers say&lt;/a&gt;, I am determined to have a fun time, especially while meeting our customers as part of &lt;a href=&quot;http://thesmallbusinessweb.com&quot;&gt;the Small business web&lt;/a&gt; Party! (and &lt;a href=&quot;http://startable.com&quot;&gt;Healy Jones&lt;/a&gt; will be joining me too!)&lt;/p&gt;
@@ -609,19 +609,19 @@
 
 &lt;p&gt;And, here are some tips on how to be South by South Best! &lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/03/nope-i-am-not-sick-of-sxsw-i-am-excited-to-go-there/&quot;&gt;Nope, I am not sick of SXSW. I am excited to go there.. &lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/03/nope-i-am-not-sick-of-sxsw-i-am-excited-to-go-there/&quot;&gt;Nope, I am not sick of SXSW. I am excited to go there.. &lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How to tell your customers that you screwed up?]]></title>
-  <link>http://anandrajaram.github.io/2011/03/how-to-tell-your-customers-that-you-screwed-up/</link>
-  <id>http://anandrajaram.github.io/2011/03/how-to-tell-your-customers-that-you-screwed-up</id>
+  <link>http://www.startupproductmanager.com/2011/03/how-to-tell-your-customers-that-you-screwed-up/</link>
+  <id>http://www.startupproductmanager.com/2011/03/how-to-tell-your-customers-that-you-screwed-up</id>
   <published>2011-03-01T18:42:49Z</published>
   <updated>2011-03-01T18:42:49Z</updated>
   <author>
     <name>Anand Rajaram</name>
-    <uri>http://anandrajaram.github.io</uri>
+    <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;By now, &lt;a href=&quot;http://twitter.com/#search?q=gmail&quot;&gt;Everything that needs to be said &lt;/a&gt;about the Gmail outage has been said. Maybe not, until I have added my 2 cents. Haha.  I was curious &lt;a href=&quot;http://gmailblog.blogspot.com/2011/02/gmail-back-soon-for-everyone.html&quot;&gt;what Google would say in this matter&lt;/a&gt; and how they would react. Similar to my earlier post on the&lt;a href=&quot;http://www.startupproductmanager.com/2011/01/anatomy-of-an-apple-email/&quot;&gt; Anatomy of a customer service email&lt;/a&gt;, here are my thoughts on Google&amp;#39;s well written blog post:&lt;/p&gt;
@@ -639,7 +639,7 @@
 
 &lt;p&gt;How have you communicated bad news to your customers? Do you think Google&amp;#39;s response is adequate? Does it convince you?&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://anandrajaram.github.io/2011/03/how-to-tell-your-customers-that-you-screwed-up/&quot;&gt;How to tell your customers that you screwed up?&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://anandrajaram.github.io&quot;&gt;Startup Product Manager&lt;/a&gt; on March 01, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/03/how-to-tell-your-customers-that-you-screwed-up/&quot;&gt;How to tell your customers that you screwed up?&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on March 01, 2011.&lt;/p&gt;</content>
 </entry>
 
 </feed>
