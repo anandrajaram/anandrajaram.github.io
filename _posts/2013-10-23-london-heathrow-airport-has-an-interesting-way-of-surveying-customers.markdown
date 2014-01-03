@@ -13,4 +13,4 @@ post_format:
 - Image
 ---
 
-[![20131022-210950.jpg](http://www.startupproductmanager.com/wp-content/uploads/2013/10/20131022-210950.jpg)](http://www.startupproductmanager.com/wp-content/uploads/2013/10/20131022-210950.jpg)
+[![20131022-210950.jpg](http://www.startupproductmanager.com/wp-content/uploads/2013/10/20131022-210950.jpg)](http://www.startupproductmanager.com/images/heathrow-survey.jpg)

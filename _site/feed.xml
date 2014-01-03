@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.startupproductmanager.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.startupproductmanager.com" />
-<updated>2014-01-02T01:35:24-05:00</updated>
+<updated>2014-01-02T22:44:18-05:00</updated>
 <id>http://www.startupproductmanager.com/</id>
 <author>
   <name>Anand Rajaram</name>
@@ -45,7 +45,7 @@
     <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/10/20131022-210950.jpg&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/10/20131022-210950.jpg&quot; alt=&quot;20131022-210950.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/images/heathrow-survey.jpg&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/10/20131022-210950.jpg&quot; alt=&quot;20131022-210950.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2013/10/london-heathrow-airport-has-an-interesting-way-of-surveying-customers/&quot;&gt;London Heathrow airport has an interesting way of surveying customers&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on October 23, 2013.&lt;/p&gt;</content>
 </entry>
@@ -64,7 +64,7 @@
   </author>
   <content type="html">&lt;p&gt;There is already a lot of analysis on new iPhone 5 C (for color) and 5 S (for sensors) including the usual fanboys such as&lt;a href=&quot;http://daringfireball.net/2013/09/iphone_5c_5c_event&quot;&gt; Gruber&lt;/a&gt;,&lt;a href=&quot;http://techcrunch.com/2013/09/10/iphone-5c/&quot;&gt; Siegler&lt;/a&gt; etc,.) and the haters (&lt;a href=&quot;http://www.thestreet.com/story/12033242/1/google-laughs-at-the-new-iphones.html#!&quot;&gt;sarcastically indicating that &amp;quot;Google laughs at the new phone&amp;quot;&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/09/iphone5c_2x.jpg&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/09/iphone5c_2x.jpg&quot; alt=&quot;iphone 5c&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/images/iphone5c_2x.jpg&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/09/iphone5c_2x.jpg&quot; alt=&quot;iphone 5c&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I wanted to analyze it from a Product Manager&amp;#39;s perspective.  Wall Street&amp;#39;s initial reaction is pessimism.&lt;a href=&quot;https://www.google.com/finance?chdnp=1&amp;amp;chdd=1&amp;amp;chds=1&amp;amp;chdv=1&amp;amp;chvs=maximized&amp;amp;chdeh=0&amp;amp;chfdeh=0&amp;amp;chdet=1378918680000&amp;amp;chddm=465&amp;amp;chls=IntervalBasedLine&amp;amp;q=NASDAQ:AAPL&amp;amp;&amp;amp;fct=big&amp;amp;ei=0zUxUsCmCO2F0QHIjAE&quot;&gt; Apple&amp;#39;s stock is down 5% the day after&lt;/a&gt;, but the fact that Apple doesn&amp;#39;t do what the Street wants it to do, gives me optimism.&lt;/p&gt;
 
@@ -84,21 +84,12 @@
 
 &lt;p&gt;The 5S is very interesting from the perspective of iterative product development. I don’t know if it transpired this way, but I can envision someone doing the &amp;quot;Thai food approach&amp;quot; (aka the Similans approach) to each aspect of how iPhones are used and looking at how that experience can be fixed or improved. The idea is that you categorize / prioritize each area in a chili-meter, much like a Thai restaurant rates their food for spicy-ness. Here is my shot at de-constructing it.&lt;/p&gt;
 
-&lt;p&gt;*&lt;/p&gt;
-
-&lt;p&gt;People&lt;a href=&quot;http://www.youtube.com/watch?v=NoVW62mwSQQ&quot;&gt; take a lot of pictures on their iPhones&lt;/a&gt;. So, the thinking is &amp;quot;Let&amp;#39;s make the camera amazing&amp;quot;&amp;quot;. The iPhone 6c (my name for the next year model when this camera becomes more mainstream) would become be the final nail in the coffin of Point and Shoot cameras, if they aren&amp;#39;t already dead. 3.5 chillies.&lt;/p&gt;
-
-&lt;p&gt;*&lt;/p&gt;
-
-&lt;p&gt;People buy a lot of games on their iPhones. It amounts for&lt;a href=&quot;http://blog.appannie.com/app-annie-index-market-q2-2013/&quot;&gt; 40%&lt;/a&gt; of the total app store downloads. So, Let&amp;#39;s put a 64-bit processor in there to make it FAST! Nintendo 3DS is a failure, and 2DS is now on notice. Legit gaming consoles (like Kinect/Xbox, Wii, Play Station) will be the DSLRs and handheld gaming consoles will die. (not that you already didnt know it). 4 chillies&lt;/p&gt;
-
-&lt;p&gt;*&lt;/p&gt;
-
-&lt;p&gt;Better battery was on&lt;a href=&quot;http://www.uswitch.com/mobiles/news/2013/09/iphone_5s_better_battery_fingerprint_scanner_are_most_wanted_features_says_survey/&quot;&gt; everyone&amp;#39;s wishlist&lt;/a&gt;: Oh yeah, and we have also added a 64-bit processor to it, which could make matters worse. How about we add a new processor (the M7) for some of the more battery intensive tasks. Oh, that also puts a whole new category of apps on steroids and helps us get into the market with Fitbit, Fuelband etc,.? SWEET! (although it could very well have been the other way around, where M7 was introduced to get into that category and had the benefit of preserving battery life) 5 chillies&lt;/p&gt;
-
-&lt;p&gt;*&lt;/p&gt;
-
-&lt;p&gt;People tend to lose their phones and passcodes are a pain (According to Apple, 50% dont have it enabled). Typing complicated password for buying apps is a pain, and we have data that X% of users abandon buying apps (or In app purchases) at the password stage, so Let&amp;#39;s make that easy. Let&amp;#39;s have a fingerprint sensor to unlock the phone AND make it easy to buy apps/music from the phone. This makes our ecosystem even more stronger. Win-win. 3 chillies for painpoint and 5 chillies for upside&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;People&lt;a href=&quot;http://www.youtube.com/watch?v=NoVW62mwSQQ&quot;&gt; take a lot of pictures on their iPhones&lt;/a&gt;. So, the thinking is &amp;quot;Let&amp;#39;s make the camera amazing&amp;quot;&amp;quot;. The iPhone 6c (my name for the next year model when this camera becomes more mainstream) would become be the final nail in the coffin of Point and Shoot cameras, if they aren&amp;#39;t already dead. 3.5 chillies.&lt;/li&gt;
+&lt;li&gt;People buy a lot of games on their iPhones. It amounts for&lt;a href=&quot;http://blog.appannie.com/app-annie-index-market-q2-2013/&quot;&gt; 40%&lt;/a&gt; of the total app store downloads. So, Let&amp;#39;s put a 64-bit processor in there to make it FAST! Nintendo 3DS is a failure, and 2DS is now on notice. Legit gaming consoles (like Kinect/Xbox, Wii, Play Station) will be the DSLRs and handheld gaming consoles will die. (not that you already didnt know it). 4 chillies&lt;/li&gt;
+&lt;li&gt;Better battery was on&lt;a href=&quot;http://www.uswitch.com/mobiles/news/2013/09/iphone_5s_better_battery_fingerprint_scanner_are_most_wanted_features_says_survey/&quot;&gt; everyone&amp;#39;s wishlist&lt;/a&gt;: Oh yeah, and we have also added a 64-bit processor to it, which could make matters worse. How about we add a new processor (the M7) for some of the more battery intensive tasks. Oh, that also puts a whole new category of apps on steroids and helps us get into the market with Fitbit, Fuelband etc,.? SWEET! (although it could very well have been the other way around, where M7 was introduced to get into that category and had the benefit of preserving battery life) 5 chillies&lt;/li&gt;
+&lt;li&gt;People tend to lose their phones and passcodes are a pain (According to Apple, 50% dont have it enabled). Typing complicated password for buying apps is a pain, and we have data that X% of users abandon buying apps (or In app purchases) at the password stage, so Let&amp;#39;s make that easy. Let&amp;#39;s have a fingerprint sensor to unlock the phone AND make it easy to buy apps/music from the phone. This makes our ecosystem even more stronger. Win-win. 3 chillies for painpoint and 5 chillies for upside&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;There you have it. This post is a bit of a brain dump, but figured I&amp;#39;d get back into the habit and also join in on this conversation. What are your thoughts? Which model are you going to buy?&lt;/p&gt;
 
@@ -117,7 +108,7 @@
     <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Paying attention to the little details, the ones that no one might ever notice, is a great way to take pride in your craft. When those details &lt;img src=&quot;http://farm3.staticflickr.com/2758/4517270586_764b7f421c_q.jpg&quot; alt=&quot;&quot;&gt;DO get noticed, you will show your customers and users that you care. Plus they are a great way to add character and &lt;a href=&quot;http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/&quot;&gt;show some personality in your apps&lt;/a&gt;. Through &lt;a href=&quot;http://graysky.org/&quot;&gt;Mike Champion&lt;/a&gt;, I found this great tumblr blog called &lt;a href=&quot;http://littlebigdetails.com/&quot;&gt;Little Big Details&lt;/a&gt; which has a great collection of such details. A great site to get inspired and know that those little big details do get noticed. &lt;/p&gt;
+  <content type="html">&lt;p&gt;Paying attention to the little details, the ones that no one might ever notice, is a great way to take pride in your craft. When those details &lt;img src=&quot;http://farm3.staticflickr.com/2758/4517270586_764b7f421c_q.jpg&quot; alt=&quot;&quot;&gt; DO get noticed, you will show your customers and users that you care. Plus they are a great way to add character and &lt;a href=&quot;http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/&quot;&gt;show some personality in your apps&lt;/a&gt;. Through &lt;a href=&quot;http://graysky.org/&quot;&gt;Mike Champion&lt;/a&gt;, I found this great tumblr blog called &lt;a href=&quot;http://littlebigdetails.com/&quot;&gt;Little Big Details&lt;/a&gt; which has a great collection of such details. A great site to get inspired and know that those little big details do get noticed. &lt;/p&gt;
 
 &lt;p&gt;Image via &lt;a href=&quot;http://www.flickr.com/photos/legends2k&quot;&gt;legends2k &lt;/a&gt;&lt;/p&gt;
 
@@ -140,7 +131,7 @@
   </author>
   <content type="html">&lt;p&gt;It seems like &lt;a href=&quot;http://en.wikipedia.org/wiki/QR_code&quot;&gt;QR codes&lt;/a&gt; are everywhere these days. Yes, literally everywhere, from restaurant tables to Train station to bananas. (Can you believe it? On Bananas!)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2012/07/banana-qr-code-small.png&quot; alt=&quot;Banana qr code small&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/banana-qr-code-small.png&quot; alt=&quot;Banana qr code small&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;While their usage is not quite mainstream (yet), it is growing steadily and I expect the adoption to really take off when iOS joins the other popular mobile platforms (Android and to some Windows Phone) and supports QR Code natively.  There are helpful posts on  &lt;a href=&quot;http://blog.hubspot.com/blog/tabid/6307/bid/29449/How-to-Create-a-QR-Code-in-4-Quick-Steps.aspx&quot;&gt;how to create your qrcode in 4 easy steps&lt;/a&gt; and &lt;a href=&quot;http://blog.hubspot.com/blog/tabid/6307/bid/30678/9-Unique-Ways-to-Generate-Leads-With-QR-Codes.aspx&quot;&gt;how they can be used to generate leads&lt;/a&gt; . In this post, I&amp;#39;ll give you some power-user tips to generate Robust QR Codes and increase your chances of conversion.&lt;/p&gt;
 
@@ -148,17 +139,17 @@
 
 &lt;p&gt;1.** Make your QR code attractive**: Yes, you read that right. You can make QR Codes attractive. For example, you can customize it with your logo, use the same colors as your brand or identity so that it attracts attention. A word of caution though, especially when you are trying fancy things like putting your logo on the QRCode). Anytime you manually do anything with the QRCode, make sure you test it thoroughly, ensure that it can be scanned and ensure that you haven&amp;#39;t accidentally corrupted the code itself). Sticking your logo at the center of the code, with a white border (like in the example below, should usually be good). Here are a couple of examples of customized QRCodes.&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;quot;&amp;quot; align=&amp;quot;aligncenter&amp;quot; width=&amp;quot;200&amp;quot;]&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2012/07/qrcode.short_.png&quot; alt=&quot;Qrcode short&quot;&gt; Customized QR Code[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.short_.png&quot; alt=&quot;Qrcode short&quot;&gt; Customized QR Code[/caption]&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;quot;&amp;quot; align=&amp;quot;aligncenter&amp;quot; width=&amp;quot;200&amp;quot;]&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2012/07/qrcode.high_.gray-with-logo.png&quot; alt=&quot;Qrcode high gray with logo&quot;&gt; QR Code Customized with Logo[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.high_.gray-with-logo.png&quot; alt=&quot;Qrcode high gray with logo&quot;&gt; QR Code Customized with Logo[/caption]&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Make your QR Code easy to scan&lt;/strong&gt;: Use a URL shortener so that you are encoding lesser information, and consider picking level H (for high level of error correction). A higher level of error correction increases the likelihood that your code will be scanned, even when it is exposed to adverse conditions (like bad weather, or the code is in a banana). Here is an example showing a QRCode with a long URL: http://blog.hubspot.com/blog/tabid/6307/bid/30678/9-Unique-Ways-to-Generate-Leads-With-QR-Codes.aspx and the same code but now representing a shortened URL: http://hub.am/NKxvQr Any guesses on which will be picked up faster by the phone?&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;[caption id=&amp;quot;&amp;quot; align=&amp;quot;aligncenter&amp;quot; width=&amp;quot;200&amp;quot;]&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2012/07/qrcode.long_.png&quot; alt=&quot;Qrcode long url&quot;&gt; QR Code with regular, un-shortened URL[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.long_.png&quot; alt=&quot;Qrcode long url&quot;&gt; QR Code with regular, un-shortened URL[/caption]&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;quot;&amp;quot; align=&amp;quot;aligncenter&amp;quot; width=&amp;quot;200&amp;quot;]&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2012/07/qrcode.short_1.png&quot; alt=&quot;Qrcode short url&quot;&gt; QR Code with shortened URL has bigger &amp;quot;handles&amp;quot;[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.short_1.png&quot; alt=&quot;Qrcode short url&quot;&gt; QR Code with shortened URL has bigger &amp;quot;handles&amp;quot;[/caption]&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; &lt;strong&gt;Make sure your QR Code takes to a mobile optimized page&lt;/strong&gt;: All your efforts in making your QRCode attractive will be of no use, if your leads land on a page that is not optimized for mobile. You should also consider content that is mobile friendly (such as a video)&lt;/p&gt;
 
