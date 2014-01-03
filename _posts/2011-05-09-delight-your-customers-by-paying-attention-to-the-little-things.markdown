@@ -18,7 +18,7 @@ A quick diagnosis at the genius bar showed that the motherboard had likely conke
 
 I was supposed to have received my machine back in 5 to 7 business days, but lo and behold, I got a call in just 2 days saying my machine was ready. Woot. Awesome Apple. But wait, there is more. Not only was the logic board replaced, Apple had also replaced the optical drive and two fans, since they were not in "good condition". What a nice gesture. But wait, there is even more!
 
-[![mahatma-Gandhi-customer](http://www.startupproductmanager.com/wp-content/uploads/2011/05/20110508-104430.jpg)](http://www.startupproductmanager.com/wp-content/uploads/2011/05/20110508-104430.jpg)
+![mahatma-Gandhi-customer](http://www.startupproductmanager.com/images/20110508-104430.jpg)
 
 One of the rubber pads at the bottom of the MacBook had fallen off. I was curious what they had done about it and sure enough all four of them were replaced. I mean, who cares about the rubber pads at the bottom, except of course the user. You don't even have to be a fanboy like me, to be impressed by such attention to detail.
 

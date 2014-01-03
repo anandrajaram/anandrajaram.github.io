@@ -16,7 +16,7 @@ categories:
 
 
 
-![ProductCampBoston](http://www.startupproductmanager.com/wp-content/uploads/2011/03/ProductCampBoston.png)
+![ProductCampBoston](http://www.startupproductmanager.com/images/ProductCampBoston.png)
 
 
 
@@ -33,7 +33,7 @@ This year's theme is “Innovation” – and it’s all about product, process 
 
 
 
-  * [Register Now](http://productcampboston.org/register/) and 
+  * [Register Now](http://productcampboston.org/register/) and
 
 
   * [Propose a Session](http://productcampboston.org/2011/03/17/how-to-propose-a-session-in-7-steps/)

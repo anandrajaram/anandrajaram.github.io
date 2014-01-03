@@ -11,28 +11,14 @@ categories:
 ---
 
 Thank you, Steve for inspiring me to create technology that "just works"
-
-
-
-
 Thank you, Steve for proving to me that technology doesn't have to be clunky, messy and awkward
-
-
-
-
 Thank you, Steve for helping me appreciate beautiful design
 
-
-
-
 You sure put a ding in the universe. I promise to Stay Hungry and Stay Foolish.
-
-
-
 
 RIP
 
 
 
 
-![Rest In Peace.](http://www.startupproductmanager.com/wp-content/uploads/2011/10/t_hero.png)
+![Rest In Peace.](http://www.startupproductmanager.com/images/t_hero.png)

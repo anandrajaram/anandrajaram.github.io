@@ -15,7 +15,7 @@ categories:
 
 There is already a lot of analysis on new iPhone 5 C (for color) and 5 S (for sensors) including the usual fanboys such as[ Gruber](http://daringfireball.net/2013/09/iphone_5c_5c_event),[ Siegler](http://techcrunch.com/2013/09/10/iphone-5c/) etc,.) and the haters ([sarcastically indicating that "Google laughs at the new phone"](http://www.thestreet.com/story/12033242/1/google-laughs-at-the-new-iphones.html#!))
 
-[![iphone 5c](http://www.startupproductmanager.com/wp-content/uploads/2013/09/iphone5c_2x.jpg)](http://www.startupproductmanager.com/images/iphone5c_2x.jpg)
+![iphone 5c](http://www.startupproductmanager.com/images/iphone5c_2x.jpg)
 
 I wanted to analyze it from a Product Manager's perspective.  Wall Street's initial reaction is pessimism.[ Apple's stock is down 5% the day after](https://www.google.com/finance?chdnp=1&chdd=1&chds=1&chdv=1&chvs=maximized&chdeh=0&chfdeh=0&chdet=1378918680000&chddm=465&chls=IntervalBasedLine&q=NASDAQ:AAPL&&fct=big&ei=0zUxUsCmCO2F0QHIjAE), but the fact that Apple doesn't do what the Street wants it to do, gives me optimism.
 

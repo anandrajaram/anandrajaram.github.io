@@ -15,7 +15,7 @@ This is my first [SXSW](http://sxsw.com) and I am excited. I dont care [what the
 
 
 
-![Sxsw](http://www.startupproductmanager.com/wp-content/uploads/2011/03/sxsw.jpeg)
+![Sxsw](http://www.startupproductmanager.com/images/sxsw.jpeg)
 
 
 
@@ -36,4 +36,4 @@ Are you going to South-by? Here is a quick embed from my Plancast feed.
 
 
 
-And, here are some tips on how to be South by South Best! 
+And, here are some tips on how to be South by South Best!

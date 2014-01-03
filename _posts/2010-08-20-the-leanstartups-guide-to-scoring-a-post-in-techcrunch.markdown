@@ -53,7 +53,7 @@ I took it upon myself to come up with this flow-chart, that should this whole pr
 
 
 
-![techcrunch-2.post.png](http://www.startupproductmanager.com/wp-content/uploads/2010/08/techcrunch-2.post_1.png)
+![techcrunch-2.post.png](http://www.startupproductmanager.com/images/techcrunch-2.post_1.png)
 
 
 

@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.startupproductmanager.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.startupproductmanager.com" />
-<updated>2014-01-02T22:44:18-05:00</updated>
+<updated>2014-01-03T00:00:57-05:00</updated>
 <id>http://www.startupproductmanager.com/</id>
 <author>
   <name>Anand Rajaram</name>
@@ -45,7 +45,7 @@
     <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/images/heathrow-survey.jpg&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/10/20131022-210950.jpg&quot; alt=&quot;20131022-210950.jpg&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/heathrow-survey.jpg&quot; alt=&quot;Heathrow Survey&quot;&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2013/10/london-heathrow-airport-has-an-interesting-way-of-surveying-customers/&quot;&gt;London Heathrow airport has an interesting way of surveying customers&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on October 23, 2013.&lt;/p&gt;</content>
 </entry>
@@ -64,7 +64,7 @@
   </author>
   <content type="html">&lt;p&gt;There is already a lot of analysis on new iPhone 5 C (for color) and 5 S (for sensors) including the usual fanboys such as&lt;a href=&quot;http://daringfireball.net/2013/09/iphone_5c_5c_event&quot;&gt; Gruber&lt;/a&gt;,&lt;a href=&quot;http://techcrunch.com/2013/09/10/iphone-5c/&quot;&gt; Siegler&lt;/a&gt; etc,.) and the haters (&lt;a href=&quot;http://www.thestreet.com/story/12033242/1/google-laughs-at-the-new-iphones.html#!&quot;&gt;sarcastically indicating that &amp;quot;Google laughs at the new phone&amp;quot;&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/images/iphone5c_2x.jpg&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2013/09/iphone5c_2x.jpg&quot; alt=&quot;iphone 5c&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/iphone5c_2x.jpg&quot; alt=&quot;iphone 5c&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;I wanted to analyze it from a Product Manager&amp;#39;s perspective.  Wall Street&amp;#39;s initial reaction is pessimism.&lt;a href=&quot;https://www.google.com/finance?chdnp=1&amp;amp;chdd=1&amp;amp;chds=1&amp;amp;chdv=1&amp;amp;chvs=maximized&amp;amp;chdeh=0&amp;amp;chfdeh=0&amp;amp;chdet=1378918680000&amp;amp;chddm=465&amp;amp;chls=IntervalBasedLine&amp;amp;q=NASDAQ:AAPL&amp;amp;&amp;amp;fct=big&amp;amp;ei=0zUxUsCmCO2F0QHIjAE&quot;&gt; Apple&amp;#39;s stock is down 5% the day after&lt;/a&gt;, but the fact that Apple doesn&amp;#39;t do what the Street wants it to do, gives me optimism.&lt;/p&gt;
 
@@ -108,7 +108,7 @@
     <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Paying attention to the little details, the ones that no one might ever notice, is a great way to take pride in your craft. When those details &lt;img src=&quot;http://farm3.staticflickr.com/2758/4517270586_764b7f421c_q.jpg&quot; alt=&quot;&quot;&gt; DO get noticed, you will show your customers and users that you care. Plus they are a great way to add character and &lt;a href=&quot;http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/&quot;&gt;show some personality in your apps&lt;/a&gt;. Through &lt;a href=&quot;http://graysky.org/&quot;&gt;Mike Champion&lt;/a&gt;, I found this great tumblr blog called &lt;a href=&quot;http://littlebigdetails.com/&quot;&gt;Little Big Details&lt;/a&gt; which has a great collection of such details. A great site to get inspired and know that those little big details do get noticed. &lt;/p&gt;
+  <content type="html">&lt;p&gt;Paying attention to the little details, the ones that no one might ever notice, is a great way to take pride in your craft. When those details DO get noticed, you will show your customers and users that you care. Plus they are a great way to add character and &lt;a href=&quot;http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/&quot;&gt;show some personality in your apps&lt;/a&gt;. Through &lt;a href=&quot;http://graysky.org/&quot;&gt;Mike Champion&lt;/a&gt;, I found this great tumblr blog called &lt;a href=&quot;http://littlebigdetails.com/&quot;&gt;Little Big Details&lt;/a&gt; which has a great collection of such details. A great site to get inspired and know that those little big details do get noticed. &lt;/p&gt;
 
 &lt;p&gt;Image via &lt;a href=&quot;http://www.flickr.com/photos/legends2k&quot;&gt;legends2k &lt;/a&gt;&lt;/p&gt;
 
@@ -174,20 +174,19 @@
     <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;When talking to your customers and users, it is important to synthesize the information to make sure you are not just &amp;quot;&lt;a href=&quot;http://www.goodreads.com/quotes/show/15297&quot;&gt;delivering faster horses&lt;/a&gt;&amp;quot; (and apparently, there is &lt;a href=&quot;http://blogs.hbr.org/cs/2011/08/henry_ford_never_said_the_fast.html&quot;&gt;no evidence that Henry Ford actually said it,&lt;/a&gt; but I&lt;img src=&quot;http://29.media.tumblr.com/tumblr_l4srykesbA1qz6pqio1_500.png&quot; alt=&quot;&quot;&gt; digress). When you are working onbrand new features, you likely are talking to a lot of power users and early adopters. Given how well they know about your current product, it is quite likely that they will tell you not only the &amp;quot;what&amp;quot; of the feature but also give you insights on the &amp;quot;how&amp;quot;.&lt;/p&gt;
+  <content type="html">&lt;p&gt;When talking to your customers and users, it is important to synthesize the information to make sure you are not just &amp;quot;&lt;a href=&quot;http://www.goodreads.com/quotes/show/15297&quot;&gt;delivering faster horses&lt;/a&gt;&amp;quot; (and apparently, there is &lt;a href=&quot;http://blogs.hbr.org/cs/2011/08/henry_ford_never_said_the_fast.html&quot;&gt;no evidence that Henry Ford actually said it,&lt;/a&gt; but I digress.
+&lt;img src=&quot;http://29.media.tumblr.com/tumblr_l4srykesbA1qz6pqio1_500.png&quot; alt=&quot;Henry Ford Quote&quot;&gt;). When you are working onbrand new features, you likely are talking to a lot of power users and early adopters. Given how well they know about your current product, it is quite likely that they will tell you not only the &amp;quot;what&amp;quot; of the feature but also give you insights on the &amp;quot;how&amp;quot;.&lt;/p&gt;
 
 &lt;p&gt;So It becomes important to distinguish between what the user says by way of implementation and what the user&amp;#39;s real intent is. There are a couple of cues that can alert you to this:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Is the user focusing on the feature or are they talking about the benefit they&amp;#39;d derive from the feature? (To continue the faster horse analogy above, are they asking for shinier new wheels with additional spare wheels (which are features), or are they wishing that they get to a place faster (which is a benefit)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;From the blog &lt;a href=&quot;http://scotchandcode.com/2011/11/23/356/&quot;&gt;Scotch and Code&lt;/a&gt;, I found another useful way. When the user is talking about the feature/app, are they saying &amp;quot;IT can do this&amp;quot; or are they saying &amp;quot;I can do this&amp;quot;. This subtle shift in perspective is a cue on whether the user is focusing and more importantly give a sense for whether the user thinks of your app as a tool that empowers them to do what they want to accomplish. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Is the user focusing on the feature or are they talking about the benefit they&amp;#39;d derive from the feature? (To continue the faster horse analogy above, are they asking for shinier new wheels with additional spare wheels (which are features), or are they wishing that they get to a place faster (which is a benefit)&lt;/li&gt;
+&lt;li&gt;From the blog &lt;a href=&quot;http://scotchandcode.com/2011/11/23/356/&quot;&gt;Scotch and Code&lt;/a&gt;, I found another useful way. When the user is talking about the feature/app, are they saying &amp;quot;IT can do this&amp;quot; or are they saying &amp;quot;I can do this&amp;quot;. This subtle shift in perspective is a cue on whether the user is focusing and more importantly give a sense for whether the user thinks of your app as a tool that empowers them to do what they want to accomplish. &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;And finally, here is a good example of how the focus is on the user&amp;#39;s intent. The Spilt keyboard in the iPad, accounts for the fact that people are going to tap on the empty spaces near the keys along the edge AND it guesses the user&amp;#39;s intent and magically makes those taps in empty spaces to the adjoining letter. Here is an illustration of this nifty trick: &lt;/p&gt;
 
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2012/04/ios-split-keyboard-hidden-keys.jpg&quot; alt=&quot;Ios split keyboard hidden keys&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/ios-split-keyboard-hidden-keys.jpg&quot; alt=&quot;Ios split keyboard hidden keys&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;(Image via &lt;a href=&quot;http://ios.finerthingsin.com/post/16982049392/ipad-keyboard-phantom-buttons&quot;&gt;http://ios.finerthingsin.com/post/16982049392/ipad-keyboard-phantom-buttons&lt;/a&gt;) &lt;/p&gt;
 
@@ -208,26 +207,24 @@
     <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;I went to the MassMobile - Mobile Developers Meetup, organized by Localytics, yesterday. There was a very lively discussion, with participants sharing stories of what worked, what didn&amp;#39;t, and what they are trying now.  Here are my key takeaways / quick&lt;/p&gt;
+  <content type="html">&lt;p&gt;I went to the MassMobile - Mobile Developers Meetup, organized by Localytics, yesterday. There was a very lively discussion, with participants sharing stories of what worked, what didn&amp;#39;t, and what they are trying now.  Here are my key takeaways / quick summary of the meet up:&lt;/p&gt;
 
-&lt;p&gt;summary of the meet up:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2012/02/NewImage.png&quot; alt=&quot;NewImage&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/NewImage.png&quot; alt=&quot;NewImage&quot;&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Ice Cream Sandwich is not in anyone&amp;#39;s radar right now. Almost everyone is still thinking about 2.2 and 2.3. (Except maybe Google, which seems to be looking ahead. Looks Like&lt;a href=&quot;http://techcrunch.com/2012/02/28/forget-about-android-4-0-google-exec-hints-android-5-0-will-launch-in-fall-of-2012/?grcc=33333Z98&quot;&gt; Android 5.0 aka jellybean is coming up soon&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;There were not a lot of real-life pain points around &lt;a href=&quot;http://anand.am/ApkpCk&quot;&gt;Fragmentation&lt;/a&gt; (yet?!). There wasn&amp;#39;t anyone that had to resort to &lt;a href=&quot;http://anand.am/wqu8wX&quot;&gt;device specific builds&lt;/a&gt; or anything funky like that. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Almost everyone is still developing native apps over HTML5 sites. A couple of folks had gone down the path of HTML5 before deciding to go native largely due to poor user experience on HTML 5. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;There was a lot of interest on the so-called &amp;quot;Hybrid apps&amp;quot;. A few people had prototyped using frameworks such as jQuery Mobile, PhoneGap, but nothing in the market  yet. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;There were not a lot of folks developing for Multiple platforms (such as Android and iOS). &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;There was a lot of discussion on how developing for Android would be different than developing for iOS. Three key themes emerged: &lt;/p&gt;
+&lt;li&gt;Ice Cream Sandwich is not in anyone&amp;#39;s radar right now. Almost everyone is still thinking about 2.2 and 2.3. (Except maybe Google, which seems to be looking ahead. Looks Like&lt;a href=&quot;http://techcrunch.com/2012/02/28/forget-about-android-4-0-google-exec-hints-android-5-0-will-launch-in-fall-of-2012/?grcc=33333Z98&quot;&gt; Android 5.0 aka jellybean is coming up soon&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;There were not a lot of real-life pain points around &lt;a href=&quot;http://anand.am/ApkpCk&quot;&gt;Fragmentation&lt;/a&gt; (yet?!). There wasn&amp;#39;t anyone that had to resort to &lt;a href=&quot;http://anand.am/wqu8wX&quot;&gt;device specific builds&lt;/a&gt; or anything funky like that.&lt;/li&gt;
+&lt;li&gt;Almost everyone is still developing native apps over HTML5 sites. A couple of folks had gone down the path of HTML5 before deciding to go native largely due to poor user experience on HTML 5.&lt;/li&gt;
+&lt;li&gt;There was a lot of interest on the so-called &amp;quot;Hybrid apps&amp;quot;. A few people had prototyped using frameworks such as jQuery Mobile, PhoneGap, but nothing in the market  yet.&lt;/li&gt;
+&lt;li&gt;There were not a lot of folks developing for Multiple platforms (such as Android and iOS).&lt;/li&gt;
+&lt;li&gt;There was a lot of discussion on how developing for Android would be different than developing for iOS. Three key themes emerged: 
 
 &lt;ul&gt;
-&lt;li&gt;Actual coding is roughly the same between the two platforms. &lt;/li&gt;
-&lt;li&gt;Android has higher demands for testing, due to the varied types of devices and configuration. &lt;/li&gt;
-&lt;li&gt;Android has slightly higher UX cost, given the different screen resolutions. &lt;/li&gt;
+&lt;li&gt;Actual coding is roughly the same between the two platforms.&lt;/li&gt;
+&lt;li&gt;Android has higher demands for testing, due to the varied types of devices and configuration.&lt;/li&gt;
+&lt;li&gt;Android has slightly higher UX cost, given the different screen resolutions.&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Windows 7 is still &amp;lt; 5% of the total market share. Apparently, the developer tools are great and development is really easy. Hopefully there will soon be people that actually use it, so we can build some apps for it. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Windows 7 is still &amp;lt; 5% of the total market share. Apparently, the developer tools are great and development is really easy. Hopefully there will soon be people that actually use it, so we can build some apps for it.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Thanks to Raj and the &lt;a href=&quot;http://www.localytics.com/&quot;&gt;Localytics&lt;/a&gt; team for making it useful and informative.&lt;/p&gt;
@@ -251,15 +248,9 @@
 
 &lt;p&gt;&lt;img src=&quot;http://farm5.staticflickr.com/4093/4852756417_5171fc7b35.jpg&quot; alt=&quot;Personas&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt;It is a very logical next step as you move from the what to build (through &lt;a href=&quot;http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html&quot;&gt;Customer Development&lt;/a&gt;) to the actual building (Product Development). The &lt;a href=&quot;http://blog.kissmetrics.com&quot;&gt;KissMetrics blog&lt;/a&gt; has a an interesting post today on how you can use Personas to define your SEO Keywords. When figuring out which keywords to optimize for (and bid), it is especially important to speak the &amp;quot;user&amp;#39;s tongue&amp;quot;. Use of the right terminology is not only important within your product, but it is even more important to get it right, to make sure you get your positioning right. Personas help refine the SEO key terms and I think are also a great way to figure out which segment works well and which ones don&amp;#39;t.&lt;/p&gt;
 
 &lt;p&gt;While I have used some of the underlying techniques here, I have never actively thought of extending personas in the context of SEO. Overall, a great read. Check out the the entire blog post at the KissMetrics blog at &lt;a href=&quot;http://goo.gl/T8LtL&quot;&gt;How User Personas Can Improve Your SEO Strategy&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2012/01/using-personas-end-to-end/&quot;&gt;Using Personas End to End&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on January 20, 2012.&lt;/p&gt;</content>
 </entry>
@@ -276,11 +267,13 @@
     <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;This blog post (and graphic) drives home the how manufacturers are not updating Android frequently (&lt;a href=&quot;http://www.techrepublic.com/blog/10things/10-things-i-hate-about-developing-for-android-and-some-workarounds-that-help/2650&quot;&gt;my Top 10 peeve with the platform&lt;/a&gt;). A few of the stats really jump out at me: &lt;a href=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/10/android-frag.png&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/10/android-frag.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;This blog post (and graphic) drives home the how manufacturers are not updating Android frequently (&lt;a href=&quot;http://www.techrepublic.com/blog/10things/10-things-i-hate-about-developing-for-android-and-some-workarounds-that-help/2650&quot;&gt;my Top 10 peeve with the platform&lt;/a&gt;). A few of the stats really jump out at me: &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/android-frag.png&quot; alt=&quot;Android Fragmentation&quot;&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;10 of 18 were at least two major versions behind well within their two year contract period.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;15 of 18 don’t run Gingerbread, which shipped in December 2010.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;10 of 18 were at least two major versions behind well within their two year contract period.&lt;/li&gt;
+&lt;li&gt;15 of 18 don’t run Gingerbread, which shipped in December 2010.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Check out &lt;a href=&quot;http://theunderstatement.com/post/11982112928/android-orphans-visualizing-a-sad-history-of-support&quot;&gt;Android Orphans&lt;/a&gt; blog post to get all the information.&lt;/p&gt;
@@ -300,17 +293,15 @@
     <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;Thank you, Steve for inspiring me to create technology that &amp;quot;just works&amp;quot;&lt;/p&gt;
-
-&lt;p&gt;Thank you, Steve for proving to me that technology doesn&amp;#39;t have to be clunky, messy and awkward&lt;/p&gt;
-
-&lt;p&gt;Thank you, Steve for helping me appreciate beautiful design&lt;/p&gt;
+  <content type="html">&lt;p&gt;Thank you, Steve for inspiring me to create technology that &amp;quot;just works&amp;quot;
+Thank you, Steve for proving to me that technology doesn&amp;#39;t have to be clunky, messy and awkward
+Thank you, Steve for helping me appreciate beautiful design&lt;/p&gt;
 
 &lt;p&gt;You sure put a ding in the universe. I promise to Stay Hungry and Stay Foolish.&lt;/p&gt;
 
 &lt;p&gt;RIP&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/10/t_hero.png&quot; alt=&quot;Rest In Peace.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/t_hero.png&quot; alt=&quot;Rest In Peace.&quot;&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/10/thank-you-steve/&quot;&gt;Thank you, Steve&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on October 06, 2011.&lt;/p&gt;</content>
 </entry>
@@ -329,30 +320,25 @@
   </author>
   <content type="html">&lt;p&gt;Knowing your users and the context in which they are using your app is a key aspect of developing useful and user-engaged mobile apps. This is especially important in a &lt;a href=&quot;http://techrepublic.com/blog/10things/10-things-i-hate-about-developing-for-android-and-some-workarounds-that-help/2650&quot;&gt;fragmented market&lt;/a&gt; (and a recurring theme in the&lt;a href=&quot;http://techrepublic.com/blog/10things/10-things-i-hate-about-developing-for-android-and-some-workarounds-that-help/2650&quot;&gt; frustrations of developers&lt;/a&gt;). &lt;a href=&quot;http://blog.hunch.com/?p=51781&quot;&gt;The Hunch Blog&lt;/a&gt; has some interesting stats on broad demographics and patterns of iOS and Android users.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://aka-img-2.h-img.com/media/img/blog/droid-vs-ios-inline.png&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/08/android-vs-ios.png&quot; alt=&quot;Android vs ios&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://aka-img-2.h-img.com/media/img/blog/droid-vs-ios-inline.png&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/android-vs-ios.png&quot; alt=&quot;Android vs ios&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Here are a few that I found especially relevant to me:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stat:&lt;/strong&gt; iOS users also travel frequently. (They are 50% more likely to have visited more than five countries and 55% more likely to have used their frequent flyer miles). &lt;br&gt;
-&lt;strong&gt;Takeaway&lt;/strong&gt;: Optimize your app for slower data connections and Be sure to test your app in &amp;quot;Airplane mode&amp;quot;. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stat:&lt;/strong&gt; iOS users are 26% more likely to  prefer spending their money and Android users are 29% more likely to prefer saving their money .&lt;br&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stat:&lt;/strong&gt; iOS users also travel frequently. (They are 50% more likely to have visited more than five countries and 55% more likely to have used their frequent flyer miles). 
+&lt;strong&gt;Takeaway&lt;/strong&gt;: Optimize your app for slower data connections and Be sure to test your app in &amp;quot;Airplane mode&amp;quot;.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Stat:&lt;/strong&gt; iOS users are 26% more likely to  prefer spending their money and Android users are 29% more likely to prefer saving their money .
 &lt;strong&gt;Takeaway&lt;/strong&gt;: Charge for your iOS apps :-) even if it is just 99 cents&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;*&lt;em&gt;Stat: *&lt;/em&gt;iOS Users are early adopters, 50% more likely to first use the Internet before &amp;#39;92 and 67% more likely to back up their computer constantly. &lt;br&gt;
-*&lt;em&gt;Takeaway: *&lt;/em&gt;This is further confirmation that iCloud is going to have a lot of potential. You start with a user base that backs up constantly and then give them a very easy way for their data to be available everywhere. If you have iOS apps and weren&amp;#39;t already considering iCloud, you should. &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;*&lt;em&gt;Stat: *&lt;/em&gt;iOS Users are early adopters, 50% more likely to first use the Internet before &amp;#39;92 and 67% more likely to back up their computer constantly. 
+*&lt;em&gt;Takeaway: *&lt;/em&gt;This is further confirmation that iCloud is going to have a lot of potential. You start with a user base that backs up constantly and then give them a very easy way for their data to be available everywhere. If you have iOS apps and weren&amp;#39;t already considering iCloud, you should.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Other Interesting stats:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Android users are 10% more likely to be men and iOS users are 10% more likely to be women.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;iOS users are 50% more likely to text while driving. (Seriously!)&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Android users are 50% more likely to use Yahoo! Mail. (Maybe this bodes well for &lt;a href=&quot;http://techcrunch.com/2011/08/18/japan-to-get-android-based-yahoo-phone-next-month/&quot;&gt;Yahoo&amp;#39;s upcoming Android phone&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Other Interesting stats:
+  * Android users are 10% more likely to be men and iOS users are 10% more likely to be women.
+  * iOS users are 50% more likely to text while driving. (Seriously!)
+  * Android users are 50% more likely to use Yahoo! Mail. (Maybe this bodes well for &lt;a href=&quot;http://techcrunch.com/2011/08/18/japan-to-get-android-based-yahoo-phone-next-month/&quot;&gt;Yahoo&amp;#39;s upcoming Android phone&lt;/a&gt;)&lt;/p&gt;
 
 &lt;p&gt;As with any other broad based demographics, analyze it in the context of your users and be sure not to confuse correlation with causation.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/08/know-thy-mobile-user/&quot;&gt;Know Thy Mobile User&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on August 20, 2011.&lt;/p&gt;</content>
 </entry>
@@ -375,7 +361,7 @@
 &lt;p&gt;This acquisition will not change our commitment to run Android as an open platform. Motorola will remain a licensee of Android and Android will remain open. We will run Motorola as a separate business.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/08/android-motorola.png&quot; alt=&quot;Android motorola&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/android-motorola.png&quot; alt=&quot;Android motorola&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;I see this as Google taking a cautious step in the right direction in the whole debate on &amp;quot;Open&amp;quot; vs &amp;quot;Integrated&amp;quot;. It&amp;#39;d be great if Google can find the perfect balance, but if it can&amp;#39;t, I&amp;#39;d much rather it move towards Integrated rather than staying open.&lt;strong&gt;The mobile (and tablet) industry is converging on a single playbook for succeeding in the &lt;a href=&quot;http://news.cnet.com/8301-13860_3-20006526-56.html&quot;&gt;post-PC era&lt;/a&gt;. It involves hardware and software from the same vendor, providing a rich user experience&lt;/strong&gt;. This is the third of the marriages of hardware + software vendor, following RIM&amp;#39;s purchase of QNX, HP&amp;#39;s purchase of Palm for WebOS.&lt;/p&gt;
 
@@ -469,15 +455,11 @@
 &lt;p&gt;Rolling out the two mobile apps, a tablet app was exciting, to say the least. You can expect a lot more of my thoughts on those in the coming days (and fanboys always have an opinion, don&amp;#39;t they?!). Meanwhile, you are welcome to catch up on my guest blog posts :&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;At &lt;a href=&quot;http://blog.kissmetrics.com/1-2-punch-for-increasing-conversion/&quot;&gt;KissMetrics blog&lt;/a&gt;, I write about how we increased conversion in OfficeDrop by listening to our customers, leads and effectively using those tools. &lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;My chat with Morgan Friberg of Atlassian about &lt;a href=&quot;http://blogs.atlassian.com/news/2011/04/case_study_issue_tracking_and_agile_development_at_officedro.html&quot;&gt;how we do Product Development at OfficeDrop&lt;/a&gt; and how Jira helps us develop markets that people love and use! &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;At &lt;a href=&quot;http://blog.kissmetrics.com/1-2-punch-for-increasing-conversion/&quot;&gt;KissMetrics blog&lt;/a&gt;, I write about how we increased conversion in OfficeDrop by listening to our customers, leads and effectively using those tools.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;My chat with Morgan Friberg of Atlassian about &lt;a href=&quot;http://blogs.atlassian.com/news/2011/04/case_study_issue_tracking_and_agile_development_at_officedro.html&quot;&gt;how we do Product Development at OfficeDrop&lt;/a&gt; and how Jira helps us develop markets that people love and use!&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Stay tuned, and happy to be writing again!&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/08/NewImage.png&quot; alt=&quot;Break Over.png&quot;&gt;&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/08/back-after-a-break/&quot;&gt;Back After a Break&lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on August 08, 2011.&lt;/p&gt;</content>
 </entry>
@@ -494,19 +476,18 @@
     <uri>http://www.startupproductmanager.com</uri>
     <email>anandrajaram@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;A great way to be friendly to your customers is to project some personality in your apps (and hopefully it reflects your company&amp;#39;s true personality).  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.google.com/logos/&quot;&gt;Google Doodles&lt;/a&gt; are pretty popular and it is a pretty good proof that you can show off stuff, even though there isn&amp;#39;t much in your &amp;quot;home page&amp;quot;.&lt;/p&gt;
+  <content type="html">&lt;p&gt;A great way to be friendly to your customers is to project some personality in your apps (and hopefully it reflects your company&amp;#39;s true personality). 
+&lt;a href=&quot;http://www.google.com/logos/&quot;&gt;Google Doodles&lt;/a&gt; are pretty popular and it is a pretty good proof that you can show off stuff, even though there isn&amp;#39;t much in your &amp;quot;home page&amp;quot;.&lt;/p&gt;
 
 &lt;p&gt;I found a couple of nice examples this week that I thought I would share.&lt;/p&gt;
 
 &lt;p&gt;The first is from &lt;a href=&quot;http://mailchimp.com&quot;&gt;MailChimp&lt;/a&gt;. On May 4th, their login page had been updated to reflect &amp;quot;Star wars day&amp;quot;, aka, May the 4th be with you.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/05/force-1.png&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/05/force-1-1024x648.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/force-1.png&quot; alt=&quot;Mailchimp Star Wars day&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;The other example I found was for the release notes for the Yelp iPhone App (And yes, you can judge me by the fact that I read release notes of the apps I use)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/05/yelp-update.png&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/05/yelp-update.png&quot; alt=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/yelp-update.png&quot; alt=&quot;Yelp Update&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Both are nice examples that bring a smile to your customer&amp;#39;s face when they come across them. Well done. How do you make your apps have a personality?&lt;/p&gt;
 
@@ -531,7 +512,7 @@
 
 &lt;p&gt;I was supposed to have received my machine back in 5 to 7 business days, but lo and behold, I got a call in just 2 days saying my machine was ready. Woot. Awesome Apple. But wait, there is more. Not only was the logic board replaced, Apple had also replaced the optical drive and two fans, since they were not in &amp;quot;good condition&amp;quot;. What a nice gesture. But wait, there is even more!&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/05/20110508-104430.jpg&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/05/20110508-104430.jpg&quot; alt=&quot;mahatma-Gandhi-customer&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/20110508-104430.jpg&quot; alt=&quot;mahatma-Gandhi-customer&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;One of the rubber pads at the bottom of the MacBook had fallen off. I was curious what they had done about it and sure enough all four of them were replaced. I mean, who cares about the rubber pads at the bottom, except of course the user. You don&amp;#39;t even have to be a fanboy like me, to be impressed by such attention to detail.&lt;/p&gt;
 
@@ -558,14 +539,14 @@
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://productcampboston.org/&quot;&gt;ProductCamp Boston&lt;/a&gt;, the awesome &lt;a href=&quot;http://en.wikipedia.org/wiki/Unconference&quot;&gt;unconference&lt;/a&gt; on Product Management, returns on Saturday, April 2, 2011 at the Microsoft New England Research and Development Center in Cambridge. I have been to prior year&amp;#39;s ProductCamps and they rock!  (I am pretty bummed that I can&amp;#39;t make it this year, because I will be out of the country at that time.)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/03/ProductCampBoston.png&quot; alt=&quot;ProductCampBoston&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/ProductCampBoston.png&quot; alt=&quot;ProductCampBoston&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;If you are not familiar with UnConferences, you should definitely go to this one. There are no “attendees,” since everyone participates in some manner.  At ProductCamp, you’ll get to present, lead a roundtable discussion, share your experiences, and/or volunteer. Every single unconference that I have gone to (such as the MassTLC unconference, ProductCamp and BarCamp), has been memorable and insightful. They are a great way to meet fellow Product Managers and share ideas and exchange notes on common challenges, industry trends and network!&lt;/p&gt;
 
 &lt;p&gt;This year&amp;#39;s theme is “Innovation” – and it’s all about product, process and personal innovation to help you and your company win. You get to propose topics, deliver talks, attend sessions all around that theme. So what are you waiting for?&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://productcampboston.org/register/&quot;&gt;Register Now&lt;/a&gt; and &lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://productcampboston.org/register/&quot;&gt;Register Now&lt;/a&gt; and&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://productcampboston.org/2011/03/17/how-to-propose-a-session-in-7-steps/&quot;&gt;Propose a Session&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -590,7 +571,7 @@
   </author>
   <content type="html">&lt;p&gt;This is my first &lt;a href=&quot;http://sxsw.com&quot;&gt;SXSW&lt;/a&gt; and I am excited. I dont care &lt;a href=&quot;http://techcrunch.com/2011/03/07/sxsgah/&quot;&gt;what the naysayers say&lt;/a&gt;, I am determined to have a fun time, especially while meeting our customers as part of &lt;a href=&quot;http://thesmallbusinessweb.com&quot;&gt;the Small business web&lt;/a&gt; Party! (and &lt;a href=&quot;http://startable.com&quot;&gt;Healy Jones&lt;/a&gt; will be joining me too!)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/03/sxsw.jpeg&quot; alt=&quot;Sxsw&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/sxsw.jpeg&quot; alt=&quot;Sxsw&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt; &lt;/p&gt;
 
@@ -598,7 +579,7 @@
 
 &lt;p&gt;Are you going to South-by? Here is a quick embed from my Plancast feed.&lt;/p&gt;
 
-&lt;p&gt;And, here are some tips on how to be South by South Best! &lt;/p&gt;
+&lt;p&gt;And, here are some tips on how to be South by South Best!&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.startupproductmanager.com/2011/03/nope-i-am-not-sick-of-sxsw-i-am-excited-to-go-there/&quot;&gt;Nope, I am not sick of SXSW. I am excited to go there.. &lt;/a&gt; was originally published by Anand Rajaram at &lt;a href=&quot;http://www.startupproductmanager.com&quot;&gt;Startup Product Manager&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
 </entry>
@@ -617,7 +598,7 @@
   </author>
   <content type="html">&lt;p&gt;By now, &lt;a href=&quot;http://twitter.com/#search?q=gmail&quot;&gt;Everything that needs to be said &lt;/a&gt;about the Gmail outage has been said. Maybe not, until I have added my 2 cents. Haha.  I was curious &lt;a href=&quot;http://gmailblog.blogspot.com/2011/02/gmail-back-soon-for-everyone.html&quot;&gt;what Google would say in this matter&lt;/a&gt; and how they would react. Similar to my earlier post on the&lt;a href=&quot;http://www.startupproductmanager.com/2011/01/anatomy-of-an-apple-email/&quot;&gt; Anatomy of a customer service email&lt;/a&gt;, here are my thoughts on Google&amp;#39;s well written blog post:&lt;/p&gt;
 
-&lt;p&gt;[caption id=&amp;quot;attachment_223&amp;quot; align=&amp;quot;aligncenter&amp;quot; width=&amp;quot;622&amp;quot; caption=&amp;quot;Gmail Outage Blog Post Analysis&amp;quot;]&lt;a href=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/03/Official-Gmail-Blog.png&quot;&gt;&lt;img src=&quot;http://www.startupproductmanager.com/wp-content/uploads/2011/03/Official-Gmail-Blog.png&quot; alt=&quot;Gmail Outage Blog Post&quot;&gt;&lt;/a&gt;[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/Official-Gmail-Blog.png&quot; alt=&quot;Gmail Outage Blog Post&quot;&gt;]&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;Say, sorry, straight up. Not wishy washy, not the &amp;quot;We apologize for any inconvenienced this may have sort of caused&amp;quot; kind, but a straight up one human to another kind. Sorry!&lt;/p&gt;&lt;/li&gt;

@@ -18,15 +18,15 @@ If you have tried to send a decent looking HTML email as part of your [lifecycle
 
 But I just realized the other day (not surprising on hindsight) that there is another variable in this equation. **Your browser**. Here is the email that I was designing (with the images turned on).
 
-![Email with images](http://www.startupproductmanager.com/wp-content/uploads/2011/02/email-with-images.png)
+![Email with images](http://www.startupproductmanager.com/images/email-with-images.png)
 
 Like any good marketer, I setup alt-text in my email so that users see meaningful content when images are disabled (and every client except Apple Mail disables it by default). Heck, I even phrased it such that I nudged the user to enable images. But for some mysterious reason, the alt text didn't show up in Gmail.
 
-![Gmail chrome no alt text](http://www.startupproductmanager.com/wp-content/uploads/2011/02/gmail-chrome-no-alt-text.png)
+![Gmail chrome no alt text](http://www.startupproductmanager.com/images/gmail-chrome-no-alt-text.png)
 
 After some investigation (and thanks to some useful pointers from MailChimp), it turned out that the issue does not have to do with Gmail but with Chrome. The same email (received in Gmail), displays Alt-Text perfectly fine in FireFox. Here is the same email in Firefox, with all the ALT-Text goodness.
 
-![Gmail firefox](http://www.startupproductmanager.com/wp-content/uploads/2011/02/gmail-firefox.png)
+![Gmail firefox](http://www.startupproductmanager.com/images/gmail-firefox.png)
 
 Ah, well, if I had a dime for every HTML email quirk, I'd probably be Bill Gates (Whoa, is that how he became the richest man, haha)? But Wait, there is more.
 

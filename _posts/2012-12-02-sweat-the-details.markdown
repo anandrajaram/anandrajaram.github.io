@@ -12,7 +12,7 @@ tags:
 - design
 ---
 
-Paying attention to the little details, the ones that no one might ever notice, is a great way to take pride in your craft. When those details ![](http://farm3.staticflickr.com/2758/4517270586_764b7f421c_q.jpg) DO get noticed, you will show your customers and users that you care. Plus they are a great way to add character and [show some personality in your apps](http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/). Through [Mike Champion](http://graysky.org/), I found this great tumblr blog called [Little Big Details](http://littlebigdetails.com/) which has a great collection of such details. A great site to get inspired and know that those little big details do get noticed. 
+Paying attention to the little details, the ones that no one might ever notice, is a great way to take pride in your craft. When those details DO get noticed, you will show your customers and users that you care. Plus they are a great way to add character and [show some personality in your apps](http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/). Through [Mike Champion](http://graysky.org/), I found this great tumblr blog called [Little Big Details](http://littlebigdetails.com/) which has a great collection of such details. A great site to get inspired and know that those little big details do get noticed. 
 
 
 
