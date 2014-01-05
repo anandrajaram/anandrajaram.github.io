@@ -11,6 +11,7 @@ categories:
 - User Experience
 post_format:
 - Image
+share: true
 ---
 
 ![Heathrow Survey](http://www.startupproductmanager.com/images/heathrow-survey.jpg)

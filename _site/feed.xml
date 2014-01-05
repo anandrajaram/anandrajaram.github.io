@@ -4,7 +4,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.startupproductmanager.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.startupproductmanager.com" />
-<updated>2014-01-03T00:00:57-05:00</updated>
+<updated>2014-01-05T18:05:38-05:00</updated>
 <id>http://www.startupproductmanager.com/</id>
 <author>
   <name>Anand Rajaram</name>
@@ -139,17 +139,17 @@
 
 &lt;p&gt;1.** Make your QR code attractive**: Yes, you read that right. You can make QR Codes attractive. For example, you can customize it with your logo, use the same colors as your brand or identity so that it attracts attention. A word of caution though, especially when you are trying fancy things like putting your logo on the QRCode). Anytime you manually do anything with the QRCode, make sure you test it thoroughly, ensure that it can be scanned and ensure that you haven&amp;#39;t accidentally corrupted the code itself). Sticking your logo at the center of the code, with a white border (like in the example below, should usually be good). Here are a couple of examples of customized QRCodes.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.short_.png&quot; alt=&quot;Qrcode short&quot;&gt; Customized QR Code[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.short_.png&quot; alt=&quot;Qrcode short&quot;&gt; Customized QR Code&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.high_.gray-with-logo.png&quot; alt=&quot;Qrcode high gray with logo&quot;&gt; QR Code Customized with Logo[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.high_.gray-with-logo.png&quot; alt=&quot;Qrcode high gray with logo&quot;&gt; QR Code Customized with Logo&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Make your QR Code easy to scan&lt;/strong&gt;: Use a URL shortener so that you are encoding lesser information, and consider picking level H (for high level of error correction). A higher level of error correction increases the likelihood that your code will be scanned, even when it is exposed to adverse conditions (like bad weather, or the code is in a banana). Here is an example showing a QRCode with a long URL: http://blog.hubspot.com/blog/tabid/6307/bid/30678/9-Unique-Ways-to-Generate-Leads-With-QR-Codes.aspx and the same code but now representing a shortened URL: http://hub.am/NKxvQr Any guesses on which will be picked up faster by the phone?&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.long_.png&quot; alt=&quot;Qrcode long url&quot;&gt; QR Code with regular, un-shortened URL[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.long_.png&quot; alt=&quot;Qrcode long url&quot;&gt; QR Code with regular, un-shortened URL&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.short_1.png&quot; alt=&quot;Qrcode short url&quot;&gt; QR Code with shortened URL has bigger &amp;quot;handles&amp;quot;[/caption]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.short_1.png&quot; alt=&quot;Qrcode short url&quot;&gt; QR Code with shortened URL has bigger &amp;quot;handles&amp;quot;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; &lt;strong&gt;Make sure your QR Code takes to a mobile optimized page&lt;/strong&gt;: All your efforts in making your QRCode attractive will be of no use, if your leads land on a page that is not optimized for mobile. You should also consider content that is mobile friendly (such as a video)&lt;/p&gt;
 
