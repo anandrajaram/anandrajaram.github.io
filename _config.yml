@@ -30,6 +30,9 @@ google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
+# Background image to be tiled on all pages
+background: fabric_of_squares_gray_@2X.png
+
 # Links to include in top navigation
 # For external links add external: true
 links:
