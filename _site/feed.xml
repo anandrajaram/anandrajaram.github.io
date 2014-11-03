@@ -7,6 +7,29 @@
     <atom:link href="http://www.startupproductmanager.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Short Form Blogging</title>
+        <description>&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;p&gt;Negotiate a comfort zone on two axes.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;Traffic is irrelevant&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;p&gt;Have fun. Blogging is not your job. Don’t add it to your to-do list. If it’s not fun and you’re not done? Screw it. Take the baby to the park instead.&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This “short-form” post from &lt;a href=&quot;https://twitter.com/ginatrapani&quot;&gt;Gina Tripani&lt;/a&gt; inspired me to get back at it again. Nope, no in-depth medium style pieces, probably a lot of tools/tips style posts and a bunch of link posts (like this one). The last time I wanted to post, I ended up &lt;a href=&quot;https://github.com/johnotander/pixyll/&quot;&gt;updating my theme&lt;/a&gt;, so fingers cross if it’ll work out this time. &lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Nov 2014 00:00:00 -0400</pubDate>
+        <link>http://www.startupproductmanager.com/2014/11/short-form-blogging/</link>
+        <guid isPermaLink="true">http://www.startupproductmanager.com/2014/11/short-form-blogging/</guid>
+      </item>
+    
+      <item>
         <title>Seasons</title>
         <description>&lt;p&gt;Despite the harsh winters, I really like the New England area for the four seasons and how each season has its unique beauty. Here is a snapshot of how the same place looks in Fall &amp;amp; Winter.&lt;/p&gt;
 
@@ -155,7 +178,7 @@
       </item>
     
       <item>
-        <title>Whats on the Boston Mobile Community's Mind</title>
+        <title>Whats on the Boston Mobile Community&#39;s Mind</title>
         <description>&lt;p&gt;I went to the MassMobile - Mobile Developers Meetup, organized by Localytics, yesterday. There was a very lively discussion, with participants sharing stories of what worked, what didn’t, and what they are trying now.  Here are my key takeaways / quick summary of the meet up:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/NewImage.png&quot; alt=&quot;NewImage&quot; /&gt;&lt;/p&gt;
@@ -196,24 +219,6 @@
         <pubDate>Fri, 20 Jan 2012 10:54:39 -0500</pubDate>
         <link>http://www.startupproductmanager.com/2012/01/using-personas-end-to-end/</link>
         <guid isPermaLink="true">http://www.startupproductmanager.com/2012/01/using-personas-end-to-end/</guid>
-      </item>
-    
-      <item>
-        <title>Android Fragmentation - Visualized</title>
-        <description>&lt;p&gt;This blog post (and graphic) drives home the how manufacturers are not updating Android frequently (&lt;a href=&quot;http://www.techrepublic.com/blog/10things/10-things-i-hate-about-developing-for-android-and-some-workarounds-that-help/2650&quot;&gt;my Top 10 peeve with the platform&lt;/a&gt;). A few of the stats really jump out at me: &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/android-frag.png&quot; alt=&quot;Android Fragmentation&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;10 of 18 were at least two major versions behind well within their two year contract period.&lt;/li&gt;
-  &lt;li&gt;15 of 18 don’t run Gingerbread, which shipped in December 2010.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Check out &lt;a href=&quot;http://theunderstatement.com/post/11982112928/android-orphans-visualizing-a-sad-history-of-support&quot;&gt;Android Orphans&lt;/a&gt; blog post to get all the information.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 27 Oct 2011 14:59:36 -0400</pubDate>
-        <link>http://www.startupproductmanager.com/2011/10/android-fragmentation-visualized/</link>
-        <guid isPermaLink="true">http://www.startupproductmanager.com/2011/10/android-fragmentation-visualized/</guid>
       </item>
     
   </channel>
