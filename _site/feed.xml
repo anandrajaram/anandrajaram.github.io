@@ -7,6 +7,45 @@
     <atom:link href="http://www.startupproductmanager.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Conflict Strategies for Product Managers</title>
+        <description>&lt;p&gt;I saw this article on HBR (it is from last year). It is meant for “nice people”, but I think these are just as applicable to Product Managers, who often need to wield &lt;a href=&quot;http://www.sachinrekhi.com/blog/2013/02/19/the-most-underrated-product-management-skill-influence-without-authority&quot;&gt;influence without authority&lt;/a&gt;. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Teams need conflict to function effectively.  Conflict allows the team to come to terms with difficult situations, to synthesize diverse perspectives, and to make sure solutions are well thought-out.  Conflict is uncomfortable, but it is the source of true innovation and also a critical process in identifying and mitigating risks.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As a PM, you need to be comfortable with a healthy level of conflict. Healthy Conflict is a sign of passionate people who stand for something. If you are not getting push back on your ideas, you may be settling for mediocre local maxima. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The secret of having healthy conflict and maintaining your self-image as a nice person is all in the mindset and the delivery. To start shifting your mindset, think about your value to the team not in how often you agree, but in how often you add unique value.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Wow! and now for a couple of specific tips: &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Use “and,” not “but.” &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;May Sound cheesy, but this is a flavor of the &lt;a href=&quot;http://uxmag.com/articles/yes-and-the-improv-of-ux&quot;&gt;Yes And&lt;/a&gt; Principle in Improv. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Ask for help. Another tactic for “nice conflict” is to be mildly self-deprecating and to own the misunderstanding.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The wrong way to be a hero is by avoiding conflict or “taking one for the team”. Don’t be that kind of a heroic PM. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://blogs.hbr.org/2013/12/conflict-strategies-for-nice-people/&quot;&gt;Full Article&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://www.startupproductmanager.com/2014/11/conflict-strategies-for-product-managers/</link>
+        <guid isPermaLink="true">http://www.startupproductmanager.com/2014/11/conflict-strategies-for-product-managers/</guid>
+      </item>
+    
+      <item>
         <title>Short Form Blogging</title>
         <description>&lt;blockquote&gt;
   &lt;ul&gt;
@@ -204,21 +243,6 @@
         <pubDate>Tue, 28 Feb 2012 16:00:15 -0500</pubDate>
         <link>http://www.startupproductmanager.com/2012/02/whats-on-the-boston-mobile-communitys-mind/</link>
         <guid isPermaLink="true">http://www.startupproductmanager.com/2012/02/whats-on-the-boston-mobile-communitys-mind/</guid>
-      </item>
-    
-      <item>
-        <title>Using Personas End to End</title>
-        <description>&lt;p&gt;I guess this one should be filed under “Duh”. The use of &lt;a href=&quot;http://en.wikipedia.org/wiki/Persona_(marketing)&quot;&gt;personas&lt;/a&gt; is pretty common while defining user interfaces and is a valuable tool in defining use cases, usage scenarios.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://farm5.staticflickr.com/4093/4852756417_5171fc7b35.jpg&quot; alt=&quot;Personas&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It is a very logical next step as you move from the what to build (through &lt;a href=&quot;http://www.startuplessonslearned.com/2008/11/what-is-customer-development.html&quot;&gt;Customer Development&lt;/a&gt;) to the actual building (Product Development). The &lt;a href=&quot;http://blog.kissmetrics.com&quot;&gt;KissMetrics blog&lt;/a&gt; has a an interesting post today on how you can use Personas to define your SEO Keywords. When figuring out which keywords to optimize for (and bid), it is especially important to speak the “user’s tongue”. Use of the right terminology is not only important within your product, but it is even more important to get it right, to make sure you get your positioning right. Personas help refine the SEO key terms and I think are also a great way to figure out which segment works well and which ones don’t.&lt;/p&gt;
-
-&lt;p&gt;While I have used some of the underlying techniques here, I have never actively thought of extending personas in the context of SEO. Overall, a great read. Check out the the entire blog post at the KissMetrics blog at &lt;a href=&quot;http://goo.gl/T8LtL&quot;&gt;How User Personas Can Improve Your SEO Strategy&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 20 Jan 2012 10:54:39 -0500</pubDate>
-        <link>http://www.startupproductmanager.com/2012/01/using-personas-end-to-end/</link>
-        <guid isPermaLink="true">http://www.startupproductmanager.com/2012/01/using-personas-end-to-end/</guid>
       </item>
     
   </channel>
