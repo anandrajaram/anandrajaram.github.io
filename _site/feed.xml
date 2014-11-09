@@ -7,6 +7,28 @@
     <atom:link href="http://www.startupproductmanager.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>If you haven&#39;t talked to a customer today, you are doing it wrong</title>
+        <description>&lt;p&gt;Great advice for entrepreneurs and Product Managers from &lt;a href=&quot;https://twitter.com/startupljackson&quot;&gt;Startup L Jackson&lt;/a&gt;. In effect he asks us to come up with a framework that guides/informs your intuition. Keep refining the framework everytime you meet someone new!&lt;/p&gt;
+
+&lt;p&gt;And there are a few specific examples of how you can keep refining it based on who you meet. &lt;/p&gt;
+
+&lt;p&gt;Anyone and Everyone: 
+&amp;gt; Ask everyone you meet what they believe, and why. When you’re talking to your Cousin Eddie, ask him about his favorite apps. How does he buy stuff? Does he watch YouTube? How does he find new restaurants or plan his travel? How does he advertise his small business? &lt;/p&gt;
+
+&lt;p&gt;Founders: 
+&amp;gt; When you meet other founders, ask them how their business works. Treat them as experts with insights that can help you improve your framework. Who are their customers? What do their customers love about the product? What have they tried that customers hated? How do they explain the product to customers? They’re building a marketplace, cool! How much do providers have to make to stay engaged? How many uses before a buyer sticks?&lt;/p&gt;
+
+&lt;p&gt;Customers: 
+&amp;gt; And if you have an area you’re working, talk to customers. Every day. Talk to users of your product, active, inactive, new, and old. Talk to people who don’t want to use your product. Talk to people who are using a competitor’s product. Talk to customers of products in adjacent markets. Now, reread this paragraph and &lt;strong&gt;replace talk with listen.&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://startupljackson.com/post/102141918295/the-counterintuitive-thing-about-counterintuitive&quot;&gt;The full article&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 09 Nov 2014 00:00:00 -0500</pubDate>
+        <link>http://www.startupproductmanager.com/2014/11/the-counterintuitive-thing-about-counterintuitive-things/</link>
+        <guid isPermaLink="true">http://www.startupproductmanager.com/2014/11/the-counterintuitive-thing-about-counterintuitive-things/</guid>
+      </item>
+    
+      <item>
         <title>Conflict Strategies for Product Managers</title>
         <description>&lt;p&gt;I saw this article on HBR (it is from last year). It is meant for “nice people”, but I think these are just as applicable to Product Managers, who often need to wield &lt;a href=&quot;http://www.sachinrekhi.com/blog/2013/02/19/the-most-underrated-product-management-skill-influence-without-authority&quot;&gt;influence without authority&lt;/a&gt;. &lt;/p&gt;
 
@@ -214,35 +236,6 @@
         <pubDate>Tue, 24 Apr 2012 11:28:24 -0400</pubDate>
         <link>http://www.startupproductmanager.com/2012/04/focus-on-intent-not-implementation/</link>
         <guid isPermaLink="true">http://www.startupproductmanager.com/2012/04/focus-on-intent-not-implementation/</guid>
-      </item>
-    
-      <item>
-        <title>Whats on the Boston Mobile Community&#39;s Mind</title>
-        <description>&lt;p&gt;I went to the MassMobile - Mobile Developers Meetup, organized by Localytics, yesterday. There was a very lively discussion, with participants sharing stories of what worked, what didn’t, and what they are trying now.  Here are my key takeaways / quick summary of the meet up:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/NewImage.png&quot; alt=&quot;NewImage&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ice Cream Sandwich is not in anyone’s radar right now. Almost everyone is still thinking about 2.2 and 2.3. (Except maybe Google, which seems to be looking ahead. Looks Like&lt;a href=&quot;http://techcrunch.com/2012/02/28/forget-about-android-4-0-google-exec-hints-android-5-0-will-launch-in-fall-of-2012/?grcc=33333Z98&quot;&gt; Android 5.0 aka jellybean is coming up soon&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;There were not a lot of real-life pain points around &lt;a href=&quot;http://anand.am/ApkpCk&quot;&gt;Fragmentation&lt;/a&gt; (yet?!). There wasn’t anyone that had to resort to &lt;a href=&quot;http://anand.am/wqu8wX&quot;&gt;device specific builds&lt;/a&gt; or anything funky like that.&lt;/li&gt;
-  &lt;li&gt;Almost everyone is still developing native apps over HTML5 sites. A couple of folks had gone down the path of HTML5 before deciding to go native largely due to poor user experience on HTML 5.&lt;/li&gt;
-  &lt;li&gt;There was a lot of interest on the so-called “Hybrid apps”. A few people had prototyped using frameworks such as jQuery Mobile, PhoneGap, but nothing in the market  yet.&lt;/li&gt;
-  &lt;li&gt;There were not a lot of folks developing for Multiple platforms (such as Android and iOS).&lt;/li&gt;
-  &lt;li&gt;There was a lot of discussion on how developing for Android would be different than developing for iOS. Three key themes emerged: 
-    &lt;ul&gt;
-      &lt;li&gt;Actual coding is roughly the same between the two platforms.&lt;/li&gt;
-      &lt;li&gt;Android has higher demands for testing, due to the varied types of devices and configuration.&lt;/li&gt;
-      &lt;li&gt;Android has slightly higher UX cost, given the different screen resolutions.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Windows 7 is still &amp;lt; 5% of the total market share. Apparently, the developer tools are great and development is really easy. Hopefully there will soon be people that actually use it, so we can build some apps for it.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Thanks to Raj and the &lt;a href=&quot;http://www.localytics.com/&quot;&gt;Localytics&lt;/a&gt; team for making it useful and informative.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Feb 2012 16:00:15 -0500</pubDate>
-        <link>http://www.startupproductmanager.com/2012/02/whats-on-the-boston-mobile-communitys-mind/</link>
-        <guid isPermaLink="true">http://www.startupproductmanager.com/2012/02/whats-on-the-boston-mobile-communitys-mind/</guid>
       </item>
     
   </channel>
