@@ -53,6 +53,25 @@
     
       <div class="post">
         
+          <a href="/2010/03/changing-your-companys-name-the-lean-way-a-real-life-case-study/" class="post-link">
+        
+            <p class="post-meta">Mar 15, 2010</p>
+        
+          <h3 class="h2 post-title">Changing your company's name the "Lean" way - A real life case study</h3>
+        
+        </a>
+        <p class="post-summary"><p>I had recently mentioned that <a href="http://www.startupproductmanager.com/2010/03/pixily-is-now-officedrop/">Pixily is now OfficeDrop</a>. There were several valuable lessons that I learnt in how we went about the process. More importantly, not only was the process very successful (Strong positive feedback on the new name, from pretty much everyone that I have spoken with), but also done in a very cost effective way. Maybe a rose by a different name, might not smell as sweet.</p>
+
+<p>We applied the essence of Customer Development to the rebranding effort. After a lot of brainstorming within the company (and how the entire company was involved, <a href="http://bostinnovation.com/2010/03/05/inside-of-a-boston-startup-part-1-why-fresh-ideas-yield-healthy-offices/">as noted by Matt</a>), we actively engaged current customers and potential leads. After further culling of the names based on domain availability, weird meaning in Spanish etc,. we kept revising our shortlist, while engaging customers every step along the way (Think of it as “minimum viable name” ).</p>
+
+<p>For a complete blow-by-blow account on why we felt the need to change the name, how we went about it, and to chime in your thoughts on the new name, check out <a href="http://blog.questionpro.com/2010/03/15/changing-your-company-name-a-real-life-no-cost-process/">Ivana Taylor’s interview</a> today with Healy Jones, our head of Marketing. Plenty of insights, information on what tools we used, tips and tricks await you there.</p>
+
+<p>Have you gone through a similar exercise? What did you learn from it?</p>
+</p>
+      </div>
+    
+      <div class="post">
+        
           <a href="/2010/03/quick-update-from-department-of-shameless-promotion/" class="post-link">
         
             <p class="post-meta">Mar 7, 2010</p>
@@ -112,25 +131,6 @@
 </p>
       </div>
     
-      <div class="post">
-        
-          <a href="/2009/12/the-cloud-got-a-bit-more-elastic-amazon-ec2-spot-instances/" class="post-link">
-        
-            <p class="post-meta">Dec 14, 2009</p>
-        
-          <h3 class="h2 post-title">The Cloud got a bit more elastic - Amazon EC2 Spot instances</h3>
-        
-        </a>
-        <p class="post-summary"><p>At the <a href="http://www.xconomy.com/boston/2009/12/11/thank-you-to-our-cloud3-speakers-seeders-sponsors-and-underwriters-and-an-update-on-speaker-slides/">Xconomy Cloud^3 conference and unpanel</a> last week, there was a lot of great discussion around the Cloud’s cost economics and at what point the Cloud becomes more expensive than a in-house data center. As part of the unpanel discussion, I had mentioned that cost models will continue to evolve in the cloud and that we are in the very early stages.</p>
-
-<p>And here it is, the <a href="http://aws.typepad.com/aws/2009/12/ec2-spot-instances-and-now-how-much-would-you-pay.html">Amazon Ec2 Spot pricing</a>. The concept is seemingly straightforward (with a somewhat unexpected twist). You can bid for “Spot Instances” where you specify the price you are willing to pay for an EC2 instance. To quote the AWS blog “As requests come in and unused capacity becomes available, we’ll evaluate the open bids for each Region and compute a new Spot Price for each instance type”. And here is the twist. After that <strong>we’ll terminate any Spot Instances with bids below the Spot Price</strong>, and launch instances for requests with bids higher than or at the new Spot Price. The instances will be billed at the then-current Spot Price regardless of the actual bid. I don’t know why the instances would have to be terminated, rather than a simple re-calculation of the price of running the instance, but this seems like a fun experiment.</p>
-
-<p>To be able to fully take advantage of this kind of flexibility being offered, your application (actually I should background jobs) would have to be totally stateless and be able to resume from any where in a workflow. Queuing mechanisms such as SQS come in handy. Like I mentioned in my talk, it is probably good design anyway to be stateless. And of course, please don’t run your web server or user-facing applications in a Spot instance. That is a guaranteed way to get fired.</p>
-
-<p>All in all, I think this is more of a pricing experiment from Amazon’s perspective, more than anything else. Getting every additional dollar out of your excess capacity is a centuries old problem (think free business cards from VistaPrint), and I’d be interested in knowing how this pans out for Amazon and how Spot prices compare to traditional prices.</p>
-</p>
-      </div>
-    
   </div>
 
   <div class="pagination clearfix mb1 mt4">
@@ -160,7 +160,7 @@
   <div class="p2 wrap">
     <div class="measure mt1 center">
       <small>
-        &copy; 2014 Anand Rajaram. 
+        &copy; 2015 Anand Rajaram. 
         <a href="">Pixyll Theme</a> courtesy of <a href="http://johnotander.com">John Otander</a>.
       </small>
     </div>

@@ -7,6 +7,23 @@
     <atom:link href="http://www.startupproductmanager.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Theme for 2015 -&gt; Creation</title>
+        <description>&lt;p&gt;Reading the 37Signals blog post about &lt;a href=&quot;https://signalvnoise.com/posts/3818-a-new-years-theme-more-questions-less-me-talk&quot;&gt;picking a theme&lt;/a&gt; for the new year rather than a resolution really resonated with me too. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;My theme for 2015 is going to be : Creation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you think about “Stuff” (content / knowledge work / whatever), there is a hierachy of Creation, Curation and Consumption. I’d give myself a 9/10 in Consumption, probably a 6/10 in curation and a measly 3 out of 10 in Creation. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/creation-curation-consumption.png&quot; alt=&quot;Creation -&amp;gt; Curation -&amp;gt; Consumption Hierarchy&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year, I want to change that. I want to get more deliberate about curating and do more creating. &lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2015 00:00:00 -0500</pubDate>
+        <link>http://www.startupproductmanager.com/2015/01/theme-for-2015--creation/</link>
+        <guid isPermaLink="true">http://www.startupproductmanager.com/2015/01/theme-for-2015--creation/</guid>
+      </item>
+    
+      <item>
         <title>If you haven&#39;t talked to a customer today, you are doing it wrong</title>
         <description>&lt;p&gt;Great advice for entrepreneurs and Product Managers from &lt;a href=&quot;https://twitter.com/startupljackson&quot;&gt;Startup L Jackson&lt;/a&gt;. In effect he asks us to come up with a framework that guides/informs your intuition. Keep refining the framework everytime you meet someone new!&lt;/p&gt;
 
@@ -219,32 +236,6 @@
         <pubDate>Tue, 31 Jul 2012 08:00:00 -0400</pubDate>
         <link>http://www.startupproductmanager.com/2012/07/5-tips-for-highly-effective-qr-codes/</link>
         <guid isPermaLink="true">http://www.startupproductmanager.com/2012/07/5-tips-for-highly-effective-qr-codes/</guid>
-      </item>
-    
-      <item>
-        <title>Focus on Intent, not Implementation</title>
-        <description>&lt;p&gt;When talking to your customers and users, it is important to synthesize the information to make sure you are not just “&lt;a href=&quot;http://www.goodreads.com/quotes/show/15297&quot;&gt;delivering faster horses&lt;/a&gt;” (and apparently, there is &lt;a href=&quot;http://blogs.hbr.org/cs/2011/08/henry_ford_never_said_the_fast.html&quot;&gt;no evidence that Henry Ford actually said it,&lt;/a&gt; but I digress.
-&lt;img src=&quot;http://29.media.tumblr.com/tumblr_l4srykesbA1qz6pqio1_500.png&quot; alt=&quot;Henry Ford Quote&quot; /&gt;). When you are working onbrand new features, you likely are talking to a lot of power users and early adopters. Given how well they know about your current product, it is quite likely that they will tell you not only the “what” of the feature but also give you insights on the “how”.&lt;/p&gt;
-
-&lt;p&gt;So It becomes important to distinguish between what the user says by way of implementation and what the user’s real intent is. There are a couple of cues that can alert you to this:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Is the user focusing on the feature or are they talking about the benefit they’d derive from the feature? (To continue the faster horse analogy above, are they asking for shinier new wheels with additional spare wheels (which are features), or are they wishing that they get to a place faster (which is a benefit)&lt;/li&gt;
-  &lt;li&gt;From the blog &lt;a href=&quot;http://scotchandcode.com/2011/11/23/356/&quot;&gt;Scotch and Code&lt;/a&gt;, I found another useful way. When the user is talking about the feature/app, are they saying “IT can do this” or are they saying “I can do this”. This subtle shift in perspective is a cue on whether the user is focusing and more importantly give a sense for whether the user thinks of your app as a tool that empowers them to do what they want to accomplish. &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;And finally, here is a good example of how the focus is on the user’s intent. The Spilt keyboard in the iPad, accounts for the fact that people are going to tap on the empty spaces near the keys along the edge AND it guesses the user’s intent and magically makes those taps in empty spaces to the adjoining letter. Here is an illustration of this nifty trick: &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/ios-split-keyboard-hidden-keys.jpg&quot; alt=&quot;Ios split keyboard hidden keys&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;(Image via &lt;a href=&quot;http://ios.finerthingsin.com/post/16982049392/ipad-keyboard-phantom-buttons&quot;&gt;http://ios.finerthingsin.com/post/16982049392/ipad-keyboard-phantom-buttons&lt;/a&gt;) &lt;/p&gt;
-
-&lt;p&gt;Go ahead, try it out in your iPad. This is a classic example of focusing on the user’s intent, and not on the specifics of a given implementation. &lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 24 Apr 2012 11:28:24 -0400</pubDate>
-        <link>http://www.startupproductmanager.com/2012/04/focus-on-intent-not-implementation/</link>
-        <guid isPermaLink="true">http://www.startupproductmanager.com/2012/04/focus-on-intent-not-implementation/</guid>
       </item>
     
   </channel>
