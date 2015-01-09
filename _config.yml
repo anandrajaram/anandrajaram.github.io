@@ -5,7 +5,7 @@ author: Anand Rajaram
 description: "On building products that people love and use"
 baseurl: ""
 url: "http://www.startupproductmanager.com"
-google_analytics: UA-10208278-2
+# google_analytics: UA-10208278-2
 animated: true
 show_related_posts: true
 
