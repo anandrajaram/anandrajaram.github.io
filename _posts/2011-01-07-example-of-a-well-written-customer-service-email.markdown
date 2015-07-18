@@ -19,6 +19,7 @@ Meanwhile, I had opened a support request with the iTunes App Store (which is di
 ![AppStore Support email.png](http://www.startupproductmanager.com/images/AppStore-Support-email.png)
 
 This email has all the ingredients of a well-written customer service email :
+
   * It has a conversational tone by using my first name at the end of sentences.
   * It communicates empathy ("I can appreciate how eager you must be to get your money back").
   * It tells me what action has been taken now (The transaction is flagged)
