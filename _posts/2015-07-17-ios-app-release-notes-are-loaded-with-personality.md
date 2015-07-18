@@ -9,7 +9,7 @@ published: True
 
 It is not new that app developers tend to [show some personality in their release notes](http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/) (I am really curious how many “regular, non-nerds” read those anymore). However, I saw a few awesome examples of app developers taking extra care about their craft and showing some love in release notes. All these apps were updated in the past two days, and all this awesomeness got me excited enough to write a post about it, after a long hiatus! That is how excited I got!  
 
-My latest favorite Annotate App (which is what I used to create these screenshots and which was a life-saver in recent moving and home-improvement projects) 
+My latest favorite [Annotate App](https://itunes.apple.com/us/app/annotate-text-emoji-stickers/id994933038?mt=8) (which is what I used to create these screenshots and which was a life-saver in recent moving and home-improvement projects) 
 
 ![Annotate release notes](/images/annotate-release-notes.jpeg)
 
