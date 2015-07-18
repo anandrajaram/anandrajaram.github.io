@@ -7,6 +7,46 @@
     <atom:link href="http://www.startupproductmanager.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>iOS App Release Notes are loaded with personality</title>
+        <description>&lt;p&gt;It is not new that app developers tend to &lt;a href=&quot;http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/&quot;&gt;show some personality in their release notes&lt;/a&gt; (I am really curious how many “regular, non-nerds” read those anymore). However, I saw a few awesome examples of app developers taking extra care about their craft and showing some love in release notes. All these apps were updated in the past two days, and all this awesomeness got me excited enough to write a post about it, after a long hiatus! That is how excited I got!&lt;/p&gt;
+
+&lt;p&gt;My latest favorite Annotate App (which is what I used to create these screenshots and which was a life-saver in recent moving and home-improvement projects)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/annotate-release-notes.jpeg&quot; alt=&quot;Annotate release notes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Medium app seizes your attention by starting on a somber note. Very creative.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/medium-release-notes.jpeg&quot; alt=&quot;Medium release notes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Slack, making an awesome reference to Hitchhiker’s guide (and yeah, how come there is no :towel: emoji)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/slack-release-notes.jpeg&quot; alt=&quot;Slack release notes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Overcast, with a short and sweet reference to bugs in iOS 9 and Dark Sky &lt;em&gt;having a talk&lt;/em&gt; with charts that wobble.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/overcast-darksky-release-notes.jpeg&quot; alt=&quot;Dark Sky release notes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Yelp (which continues to be awesome, I had called them out for awesome release notes &lt;a href=&quot;http://www.startupproductmanager.com/2011/05/show-some-personality-in-your-apps/&quot;&gt;way back in May 2011&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/yelp-release-notes.jpeg&quot; alt=&quot;Yelp release notes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And the amazing Trello, which seriously levels up, has a &lt;a href=&quot;https://twitter.com/steveplustrello&quot;&gt;@steveplustrello&lt;/a&gt; twitter account and&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/trello-release-notes.jpeg&quot; alt=&quot;Trello release notes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is also nice to see people asking for reviews nicely in release notes, as opposed to interrupting the user’s flow inside the app. In a world of auto-updates, If a user is interested enough to read your release notes, they are quite likely your more engaged users, who are arguably more likely to take the time to leave a review for you. (or atleast tweet about it).&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Do yourself a favor. Get the &lt;a href=&quot;https://twitter.com/HubSpot&quot;&gt;@hubspot&lt;/a&gt; app just to read app update notes. &lt;a href=&quot;https://twitter.com/hashtag/humperdink?src=hash&quot;&gt;#humperdink&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/wtf?src=hash&quot;&gt;#wtf&lt;/a&gt;?!😊 &lt;a href=&quot;https://twitter.com/hashtag/INBOUND13?src=hash&quot;&gt;#INBOUND13&lt;/a&gt;&lt;/p&gt;&amp;mdash; Julie J Montgomery (@julesmontgo) &lt;a href=&quot;https://twitter.com/julesmontgo/status/370776070955339776&quot;&gt;August 23, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Nice job, app developers.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Jul 2015 00:00:00 -0400</pubDate>
+        <link>http://www.startupproductmanager.com/2015/07/ios-app-release-notes-are-loaded-with-personality/</link>
+        <guid isPermaLink="true">http://www.startupproductmanager.com/2015/07/ios-app-release-notes-are-loaded-with-personality/</guid>
+      </item>
+    
+      <item>
         <title>Theme for 2015 -&gt; Creation</title>
         <description>&lt;p&gt;Reading the 37Signals blog post about &lt;a href=&quot;https://signalvnoise.com/posts/3818-a-new-years-theme-more-questions-less-me-talk&quot;&gt;picking a theme&lt;/a&gt; for the new year rather than a resolution really resonated with me too.&lt;/p&gt;
 
@@ -199,43 +239,6 @@
         <pubDate>Sun, 02 Dec 2012 17:38:18 -0500</pubDate>
         <link>http://www.startupproductmanager.com/2012/12/sweat-the-details/</link>
         <guid isPermaLink="true">http://www.startupproductmanager.com/2012/12/sweat-the-details/</guid>
-      </item>
-    
-      <item>
-        <title>5 Tips for Highly Effective QR Codes</title>
-        <description>&lt;p&gt;It seems like &lt;a href=&quot;http://en.wikipedia.org/wiki/QR_code&quot;&gt;QR codes&lt;/a&gt; are everywhere these days. Yes, literally everywhere, from restaurant tables to Train station to bananas. (Can you believe it? On Bananas!)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/banana-qr-code-small.png&quot; alt=&quot;Banana qr code small&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;While their usage is not quite mainstream (yet), it is growing steadily and I expect the adoption to really take off when iOS joins the other popular mobile platforms (Android and to some Windows Phone) and supports QR Code natively.  There are helpful posts on  &lt;a href=&quot;http://blog.hubspot.com/blog/tabid/6307/bid/29449/How-to-Create-a-QR-Code-in-4-Quick-Steps.aspx&quot;&gt;how to create your qrcode in 4 easy steps&lt;/a&gt; and &lt;a href=&quot;http://blog.hubspot.com/blog/tabid/6307/bid/30678/9-Unique-Ways-to-Generate-Leads-With-QR-Codes.aspx&quot;&gt;how they can be used to generate leads&lt;/a&gt; . In this post, I’ll give you some power-user tips to generate Robust QR Codes and increase your chances of conversion.&lt;/p&gt;
-
-&lt;p&gt;In many ways a QR Code is like someone casually browsing your website. They start out as a casual onlooker of QR Code and ends up as a lead. If you think of it as a funnel (Like all marketers, I love funnels), here are five tips to make each step of the funnel effective :&lt;/p&gt;
-
-&lt;p&gt;1.** Make your QR code attractive**: Yes, you read that right. You can make QR Codes attractive. For example, you can customize it with your logo, use the same colors as your brand or identity so that it attracts attention. A word of caution though, especially when you are trying fancy things like putting your logo on the QRCode). Anytime you manually do anything with the QRCode, make sure you test it thoroughly, ensure that it can be scanned and ensure that you haven’t accidentally corrupted the code itself). Sticking your logo at the center of the code, with a white border (like in the example below, should usually be good). Here are a couple of examples of customized QRCodes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.short_.png&quot; alt=&quot;Qrcode short&quot; /&gt; Customized QR Code&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.high_.gray-with-logo.png&quot; alt=&quot;Qrcode high gray with logo&quot; /&gt; QR Code Customized with Logo&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Make your QR Code easy to scan&lt;/strong&gt;: Use a URL shortener so that you are encoding lesser information, and consider picking level H (for high level of error correction). A higher level of error correction increases the likelihood that your code will be scanned, even when it is exposed to adverse conditions (like bad weather, or the code is in a banana). Here is an example showing a QRCode with a long URL: http://blog.hubspot.com/blog/tabid/6307/bid/30678/9-Unique-Ways-to-Generate-Leads-With-QR-Codes.aspx and the same code but now representing a shortened URL: http://hub.am/NKxvQr Any guesses on which will be picked up faster by the phone?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.long_.png&quot; alt=&quot;Qrcode long url&quot; /&gt; QR Code with regular, un-shortened URL&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.startupproductmanager.com/images/qrcode.short_1.png&quot; alt=&quot;Qrcode short url&quot; /&gt; QR Code with shortened URL has bigger “handles”&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; &lt;strong&gt;Make sure your QR Code takes to a mobile optimized page&lt;/strong&gt;: All your efforts in making your QRCode attractive will be of no use, if your leads land on a page that is not optimized for mobile. You should also consider content that is mobile friendly (such as a video)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Think beyond URLs&lt;/strong&gt; : Think beyond URLs, make it contextual and make it relevant. For example, A QR code in a business card should be that of a VCF file. Remember that QR Codes are not restricted to just URLs. You can have QR codes for a lot of different categories including YouTube Videos, Google Maps Location, Twitter, Facebook, LinkedIn, FourSquare, Telephone Number, SMS Message, Email Address, Email Message, Contact Details (VCARD), Event (VCALENDAR)&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. Try, Measure, Fix, Repeat:&lt;/strong&gt; QR Codes are a great way to bridge the gap between online and offline marketing. Use utm_campaign codes using a tracking URL builder when encoding your URLs (which gives you one more reason to use a URL shortener). If you use these codes, you can exactly tell how many visits you are getting from the QR Code and how many of those are converting to leads&lt;/p&gt;
-
-&lt;p&gt;Have you used QR Codes successfully in your marketing campaigns? How did you make the most out of it?&lt;/p&gt;
-</description>
-        <pubDate>Tue, 31 Jul 2012 08:00:00 -0400</pubDate>
-        <link>http://www.startupproductmanager.com/2012/07/5-tips-for-highly-effective-qr-codes/</link>
-        <guid isPermaLink="true">http://www.startupproductmanager.com/2012/07/5-tips-for-highly-effective-qr-codes/</guid>
       </item>
     
   </channel>
